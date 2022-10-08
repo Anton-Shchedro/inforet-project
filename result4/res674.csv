@@ -1,0 +1,1198 @@
+True persona,True name,True surname,Text,Correct,Predicted persona,Predicted surname,Predicted name
+http://dati.camera.it/ocd/persona.rdf/p305890,ROBERTO,FICO,FICO M M F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301540,MASSIMO,FIORIO,FIORIO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50079,GIUSEPPE,FIORONI,FIORONI ,True,http://dati.camera.it/ocd/persona.rdf/p50079,FIORONI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p301551,RAFFAELE,FITTO,FITTO ,True,http://dati.camera.it/ocd/persona.rdf/p301551,FITTO,RAFFAELE
+http://dati.camera.it/ocd/persona.rdf/p305978,VINCENZO,FOLINO,FOLINO F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301548,CINZIA MARIA,FONTANA,FONTANA CINZIA MARIA C C C F F F C C C F F F C FONTANA GREGORIO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302860,PAOLO,FONTANELLI,FONTANELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300541,ANIELLO,FORMISANO,FORMISANO ,True,http://dati.camera.it/ocd/persona.rdf/p300541,FORMISANO,ANIELLO
+http://dati.camera.it/ocd/persona.rdf/p306162,FILIPPO,FOSSATI,FOSSATI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305595,RICCARDO,FRACCARO,FRACCARO A A F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305559,GIAN MARIO,FRAGOMELI,FRAGOMELI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300246,DARIO,FRANCESCHINI,FRANCESCHINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305880,NICOLA,FRATOIANNI,FRATOIANNI ,True,http://dati.camera.it/ocd/persona.rdf/p305880,FRATOIANNI,NICOLA
+http://dati.camera.it/ocd/persona.rdf/p305569,SILVIA,FREGOLENT,FREGOLENT C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305748,LUCA,FRUSONE,FRUSONE ,True,http://dati.camera.it/ocd/persona.rdf/p305748,FRUSONE,LUCA
+http://dati.camera.it/ocd/persona.rdf/p302955,BENEDETTO FRANCESCO,FUCCI,FUCCI ,True,http://dati.camera.it/ocd/persona.rdf/p302955,FUCCI,BENEDETTO FRANCESCO
+http://dati.camera.it/ocd/persona.rdf/p305856,ALESSANDRO,FURNARI,FURNARI A A F F F F F F C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305553,MARIA CHIARA,GADDA,GADDA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306096,CHIARA,GAGNARLI,GAGNARLI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50258,GIUSEPPE,GALATI,GALATI ,True,http://dati.camera.it/ocd/persona.rdf/p50258,GALATI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p305692,ADRIANA EDEN SUSANNA,GALGANO,GALGANO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305706,CARLO,GALLI,GALLI CARLO C C C F F F C C C F F F C GALLI GIAMPAOLO C C C F F F C C C F F F C 1 1 1 1 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305696,FILIPPO,GALLINELLA,GALLINELLA A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305900,LUIGI,GALLO,GALLO LUIGI A A F F F F F F A F F F F GALLO RICCARDO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303065,GUIDO,GALPERTI,GALPERTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305936,PAOLO,GANDOLFI,GANDOLFI ,True,http://dati.camera.it/ocd/persona.rdf/p305936,GANDOLFI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p302899,LAURA,GARAVINI,GARAVINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300639,DANIELA,GARNERO SANTANCHE',GARNERO SANTANCHE’ ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302956,VINCENZO,GAROFALO,GAROFALO ,True,http://dati.camera.it/ocd/persona.rdf/p302956,GAROFALO,VINCENZO
+http://dati.camera.it/ocd/persona.rdf/p301545,FRANCESCO SAVERIO,GAROFANI,GAROFANI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302790,ENRICO,GASBARRA,GASBARRA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306206,DANIELA MATILDE MARIA,GASPARINI,GASPARINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305580,RENATE,GEBHARD,GEBHARD ,True,http://dati.camera.it/ocd/persona.rdf/p305580,GEBHARD,RENATE
+http://dati.camera.it/ocd/persona.rdf/p306175,FEDERICO,GELLI,GELLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301449,MARIASTELLA,GELMINI,GELMINI F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302918,FRANCANTONIO,GENOVESE,GENOVESE C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300637,PAOLO,GENTILONI SILVERI,GENTILONI SILVERI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301485,MANUELA,GHIZZONI,GHIZZONI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300480,ROBERTO,GIACHETTI,GIACHETTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305719,ANNA,GIACOBBE,GIACOBBE C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301056,ANTONELLO,GIACOMELLI,GIACOMELLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301533,SESTINO,GIACOMONI,GIACOMONI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302957,GABRIELLA,GIAMMANCO,GIAMMANCO ,True,http://dati.camera.it/ocd/persona.rdf/p302957,GIAMMANCO,GABRIELLA
+http://dati.camera.it/ocd/persona.rdf/p305686,GIAN LUIGI,GIGLI,GIGLI ,True,http://dati.camera.it/ocd/persona.rdf/p305686,GIGLI,GIAN LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305638,FEDERICO,GINATO,GINATO C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302897,DARIO,GINEFRA,GINEFRA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302921,TOMMASO,GINOBLE,GINOBLE ,True,http://dati.camera.it/ocd/persona.rdf/p302921,GINOBLE,TOMMASO
+http://dati.camera.it/ocd/persona.rdf/p306294,GIANCARLO,GIORDANO,GIORDANO GIANCARLO GIORDANO SILVIA A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50160,ALBERTO,GIORGETTI,GIORGETTI ALBERTO M M M M M M M M M M M M M GIORGETTI GIANCARLO F F F F F A F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305567,ANDREA,GIORGIS,GIORGIS C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305511,GREGORIO,GITTI,GITTI ,True,http://dati.camera.it/ocd/persona.rdf/p305511,GITTI,GREGORIO
+http://dati.camera.it/ocd/persona.rdf/p306200,FABRIZIA,GIULIANI,GIULIANI C C C F C F C C C F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305701,GIAMPIERO,GIULIETTI,GIULIETTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302862,MARIALUISA,GNECCHI,GNECCHI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302128,SANDRO,GOZI,GOZI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305784,MARTA,GRANDE,GRANDE A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301562,GEROLAMO,GRASSI,GRASSI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306106,MARIA GAETANA,GRECO,GRECO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305821,MONICA,GREGORI,GREGORI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306008,CHIARA,GRIBAUDO,GRIBAUDO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306071,GIULIA,GRILLO,GRILLO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301455,PAOLO,GRIMOLDI,GRIMOLDI ,True,http://dati.camera.it/ocd/persona.rdf/p301455,GRIMOLDI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p305557,GIUSEPPE,GUERINI,GUERINI GIUSEPPE C C C F F F C C C F F F C GUERINI LORENZO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p34810,MAURO,GUERRA,GUERRA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306582,GUIDO,GUIDESI,GUIDESI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306117,MARIA TINDARA,GULLO,GULLO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306079,ITZHAK YORAM,GUTGELD,GUTGELD C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306302,MARIA,IACONO,IACONO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305746,CRISTIAN,IANNUZZI,IANNUZZI CRISTIAN A A F F F F F F A F F F F IANNUZZI TINO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305864,LEONARDO,IMPEGNO,IMPEGNO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305702,ANTONELLA,INCERTI,INCERTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305503,CRISTIAN,INVERNIZZI,INVERNIZZI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305952,VANNA,IORI,IORI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306270,FLORIAN,KRONBICHLER,KRONBICHLER ,True,http://dati.camera.it/ocd/persona.rdf/p306270,KRONBICHLER,FLORIAN
+http://dati.camera.it/ocd/persona.rdf/p305827,KASHETU,KYENGE,KYENGE ,True,http://dati.camera.it/ocd/persona.rdf/p305827,KYENGE,KASHETU
+http://dati.camera.it/ocd/persona.rdf/p305872,VINCENZA,LABRIOLA,LABRIOLA ,True,http://dati.camera.it/ocd/persona.rdf/p305872,LABRIOLA,VINCENZA
+http://dati.camera.it/ocd/persona.rdf/p306266,LUIGI,LACQUANITI,LACQUANITI F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302773,PIETRO,LAFFRANCO,LAFFRANCO F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306194,FRANCESCO,LAFORGIA,LAFORGIA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300442,GIORGIO,LAINATI,LAINATI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305662,MARCO,MARCOLIN,LA MARCA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303072,COSIMO,LATRONICO,LATRONICO F A F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305749,ENZO,LATTUCA,LATTUCA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306099,GIUSEPPE,LAURICELLA,LAURICELLA C C F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306261,FABIO,LAVAGNO,LAVAGNO ,True,http://dati.camera.it/ocd/persona.rdf/p306261,LAVAGNO,FABIO
+http://dati.camera.it/ocd/persona.rdf/p300879,GIOVANNI,LEGNINI,LEGNINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301480,DONATA,LENZI,LENZI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50447,ANTONIO,LEONE,LEONE C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305751,DANILO,LEVA,LEVA ,True,http://dati.camera.it/ocd/persona.rdf/p305751,LEVA,DANILO
+http://dati.camera.it/ocd/persona.rdf/p306220,GIANFRANCO,LIBRANDI,LIBRANDI ,True,http://dati.camera.it/ocd/persona.rdf/p306220,LIBRANDI,GIANFRANCO
+http://dati.camera.it/ocd/persona.rdf/p305982,MIRELLA,LIUZZI,LIUZZI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306210,PIA ELDA,LOCATELLI,LOCATELLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305763,EMANUELE,LODOLINI,LODOLINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305788,ROBERTA,LOMBARDI,LOMBARDI M M M M M M M M M M M M M 1 1 1 1 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301477,CARMELO,LO MONTE,LO MONTE ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303074,PIERO,LONGO,LONGO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306082,MARIALUCIA,LOREFICE,LOREFICE A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302783,BEATRICE,LORENZIN,LORENZIN ,True,http://dati.camera.it/ocd/persona.rdf/p302783,LORENZIN,BEATRICE
+http://dati.camera.it/ocd/persona.rdf/p302891,ALBERTO,LOSACCO,LOSACCO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306128,LUCA,LOTTI,LOTTI ,True,http://dati.camera.it/ocd/persona.rdf/p306128,LOTTI,LUCA
+http://dati.camera.it/ocd/persona.rdf/p306048,LOREDANA,LUPO,LUPO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302789,MARIA ANNA,MADIA,MADIA C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305742,PATRIZIA,MAESTRI,MAESTRI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306145,ERNESTO,MAGORNO,MAGORNO C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306310,PASQUALE,MAIETTA,MAIETTA ,True,http://dati.camera.it/ocd/persona.rdf/p306310,MAIETTA,PASQUALE
+http://dati.camera.it/ocd/persona.rdf/p305673,GIANNA,MALISANI,MALISANI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306212,SIMONA FLAVIA,MALPEZZI,MALPEZZI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306119,ANDREA,MANCIULLI,MANCIULLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305876,MASSIMILIANO,MANFREDI,MANFREDI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305712,MATTEO,MANTERO,MANTERO A A F F F F F F A F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305771,IRENE,MANZI,MANZI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301467,DANIELE,MARANTELLI,MARANTELLI ,True,http://dati.camera.it/ocd/persona.rdf/p301467,MARANTELLI,DANIELE
+http://dati.camera.it/ocd/persona.rdf/p305802,MARIO,MARAZZITI,MARAZZITI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305765,MARCO,MARCHETTI,MARCHETTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301481,MAINO,MARCHI,MARCHI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305662,MARCO,MARCOLIN,MARCOLIN ,True,http://dati.camera.it/ocd/persona.rdf/p305662,MARCOLIN,MARCO
+http://dati.camera.it/ocd/persona.rdf/p305662,MARCO,MARCOLIN,MARCON ,False,http://dati.camera.it/ocd/persona.rdf/p306274,MARCON,GIULIO
+http://dati.camera.it/ocd/persona.rdf/p306018,RUDI FRANCO,MARGUERETTAZ,MARGUERETTAZ A C C F F F C C A F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300293,RAFFAELLA,MARIANI,MARIANI ,True,http://dati.camera.it/ocd/persona.rdf/p300293,MARIANI,RAFFAELLA
+http://dati.camera.it/ocd/persona.rdf/p306185,MARIA,MARZANO,MARIANO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301435,ANTONIO,MAROTTA,MAROTTA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302845,SIRO,MARROCU,MARROCU ,True,http://dati.camera.it/ocd/persona.rdf/p302845,MARROCU,SIRO
+http://dati.camera.it/ocd/persona.rdf/p305813,UMBERTO,MARRONI,MARRONI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300483,ANDREA,MARTELLA,MARTELLA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305628,GIOVANNA,MARTELLI,MARTELLI C C C F F F F C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305968,ROBERTO,MARTI,MARTI ,True,http://dati.camera.it/ocd/persona.rdf/p305968,MARTI,ROBERTO
+http://dati.camera.it/ocd/persona.rdf/p301492,MARCO,MARTINELLI,MARTINELLI ,True,http://dati.camera.it/ocd/persona.rdf/p301492,MARTINELLI,MARCO
+http://dati.camera.it/ocd/persona.rdf/p37470,ANTONIO,MARTINO,MARTINO ANTONIO C F F F F F F F F F F F F MARTINO PIERDOMENICO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306080,MARIA,MARZANA,MARZANA A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306185,MARIA,MARZANO,MARZANO F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305887,ANTONIO,MATARRELLI,MATARRELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305887,MATARRELLI,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305830,SALVATORE,MATARRESE,MATARRESE ,True,http://dati.camera.it/ocd/persona.rdf/p305830,MATARRESE,SALVATORE
+http://dati.camera.it/ocd/persona.rdf/p305573,DAVIDE,MATTIELLO,MATTIELLO ,True,http://dati.camera.it/ocd/persona.rdf/p305573,MATTIELLO,DAVIDE
+http://dati.camera.it/ocd/persona.rdf/p306176,MATTEO,MAURI,MAURI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305592,ANDREA,MAZZIOTTI DI CELSO,MAZZIOTTI DI CELSO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305723,ALESSANDRO,MAZZOLI,MAZZOLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p33730,GENEROSO,MELILLA,MELILLA F F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305725,FABIO,MELILLI,MELILLI C C C F F F F C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305727,MARCO,MELONI,MELONI GIORGIA M M M M M M M M M M M M M MELONI MARCO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301506,RICARDO ANTONIO,MERLO,MERLO ,True,http://dati.camera.it/ocd/persona.rdf/p301506,MERLO,RICARDO ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305817,MARCO,MICCOLI,MICCOLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305894,SALVATORE,MICILLO,MICILLO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302164,GENNARO,MIGLIORE,MIGLIORE F F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300296,LORENA,MILANATO,MILANATO F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302913,ANTONINO,MINARDO,MINARDO ,True,http://dati.camera.it/ocd/persona.rdf/p302913,MINARDO,ANTONINO
+http://dati.camera.it/ocd/persona.rdf/p301462,ANTONIO,MISIANI,MISIANI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302889,SALVATORE,MISURACA,MISURACA ,True,http://dati.camera.it/ocd/persona.rdf/p302889,MISURACA,SALVATORE
+http://dati.camera.it/ocd/persona.rdf/p302831,FEDERICA,MOGHERINI,MOGHERINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305652,MICHELE,MOGNATO,MOGNATO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305986,BRUNO,MOLEA,MOLEA C C F F F C C C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302762,NICOLA,MOLTENI,MOLTENI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50047,FRANCESCO,MONACO,MONACO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305509,GIOVANNI,MONCHIERO,MONCHIERO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302248,COLOMBA,MONGIELLO,MONGIELLO C C C F F F C C C F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305860,DANIELE,MONTRONI,MONTRONI C C C F C F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302794,ROBERTO,MORASSUT,MORASSUT C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305636,ALESSANDRA,MORETTI,MORETTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305660,SARA,MORETTO,MORETTO ,True,http://dati.camera.it/ocd/persona.rdf/p305660,MORETTO,SARA
+http://dati.camera.it/ocd/persona.rdf/p302747,ALESSIA MARIA,MOSCA,MOSCA ,True,http://dati.camera.it/ocd/persona.rdf/p302747,MOSCA,ALESSIA MARIA
+http://dati.camera.it/ocd/persona.rdf/p306013,ANTONINO,MOSCATT,MOSCATT ,True,http://dati.camera.it/ocd/persona.rdf/p306013,MOSCATT,ANTONINO
+http://dati.camera.it/ocd/persona.rdf/p302961,GIOVANNI CARLO FRANCESCO,MOTTOLA,MOTTOLA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305962,MARA,MUCCI,MUCCI ,True,http://dati.camera.it/ocd/persona.rdf/p305962,MUCCI,MARA
+http://dati.camera.it/ocd/persona.rdf/p306053,ROMINA,MURA,MURA ,True,http://dati.camera.it/ocd/persona.rdf/p306053,MURA,ROMINA
+http://dati.camera.it/ocd/persona.rdf/p302858,DELIA,MURER,MURER C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301578,ALESSANDRO,NACCARATO,NACCARATO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306136,DARIO,NARDELLA,NARDELLA ,True,http://dati.camera.it/ocd/persona.rdf/p306136,NARDELLA,DARIO
+http://dati.camera.it/ocd/persona.rdf/p306193,MARTINA,NARDI,NARDI 1 1 1 1 ,True,http://dati.camera.it/ocd/persona.rdf/p306193,NARDI,MARTINA
+http://dati.camera.it/ocd/persona.rdf/p305642,GIULIA,NARDUOLO,NARDUOLO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302962,GAETANO,NASTRI,NASTRI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306109,DALILA,NESCI,NESCI ,True,http://dati.camera.it/ocd/persona.rdf/p306109,NESCI,DALILA
+http://dati.camera.it/ocd/persona.rdf/p306183,EDOARDO,NESI,NESI ,True,http://dati.camera.it/ocd/persona.rdf/p306183,NESI,EDOARDO
+http://dati.camera.it/ocd/persona.rdf/p301515,MARISA,NICCHI,NICCHI ,True,http://dati.camera.it/ocd/persona.rdf/p301515,NICCHI,MARISA
+http://dati.camera.it/ocd/persona.rdf/p305590,MICHELE,NICOLETTI,NICOLETTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306038,RICCARDO,NUTI,NUTI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305737,ROBERTA,OLIARO,OLIARO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301408,NICODEMO NAZZARENO,OLIVERIO,OLIVERIO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305815,MATTEO,ORFINI,ORFINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301463,ANDREA,ORLANDO,ORLANDO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305584,MAURO,OTTOBRE,OTTOBRE ,True,http://dati.camera.it/ocd/persona.rdf/p305584,OTTOBRE,MAURO
+http://dati.camera.it/ocd/persona.rdf/p305866,ALBERTO,PAGANI,PAGANI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305866,ALBERTO,PAGANI,PAGANO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306282,GIOVANNI,PAGLIA,PAGLIA F F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306304,ERASMO,PALAZZOTTO,PALAZZOTTO ,True,http://dati.camera.it/ocd/persona.rdf/p306304,PALAZZOTTO,ERASMO
+http://dati.camera.it/ocd/persona.rdf/p305959,ROCCO,PALESE,PALESE F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305871,GIOVANNA,PALMA,PALMA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300453,ANTONIO,PALMIERI,PALMIERI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50366,ELIO MASSIMO,PALMIZIO,PALMIZIO F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305883,ANNA LUCIA LISA,PANNARALE,PANNARALE M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305874,MASSIMO,PAOLUCCI,PAOLUCCI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306124,PAOLO,PARENTELA,PARENTELA A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305941,VALENTINA,PARIS,PARIS C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302868,MASSIMO,PARISI,PARISI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306152,DARIO,PARRINI,PARRINI C C C F F F C C C F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305658,ORESTE,PASTORELLI,PASTORELLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305733,LUCA,PASTORINO,PASTORINO ,True,http://dati.camera.it/ocd/persona.rdf/p305733,PASTORINO,LUCA
+http://dati.camera.it/ocd/persona.rdf/p305565,EDOARDO,PATRIARCA,PATRIARCA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305924,MICHELE,PELILLO,PELILLO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306278,SERENA,PELLEGRINO,PELLEGRINO F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302746,VINICIO GIUSEPPE GUIDO,PELUFFO,PELUFFO C C C F F F C C C F F F C PES M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306232,DANIELE,PESCO,PESCO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305825,EMMA,PETITTI,PETITTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305530,COSIMO,PETRAROLI,PETRAROLI ,True,http://dati.camera.it/ocd/persona.rdf/p305530,PETRAROLI,COSIMO
+http://dati.camera.it/ocd/persona.rdf/p302967,GIOVANNA,PETRENGA,PETRENGA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305778,PAOLO,PETRINI,PETRINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306288,ILEANA CATHIA,PIAZZONI,PIAZZONI F F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301500,GUGLIELMO,PICCHI,PICCHI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306009,TERESA,PICCIONE,PICCIONE C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305997,FLAVIA,PICCOLI,PICCOLI NARDELLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305878,GIORGIO,PICCOLO,PICCOLO GIORGIO C C C F F F C C C F F F C PICCOLO SALVATORE C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302255,FILIPPO,PICCONE,PICCONE ,True,http://dati.camera.it/ocd/persona.rdf/p302255,PICCONE,FILIPPO
+http://dati.camera.it/ocd/persona.rdf/p302809,GIUSEPPINA,PICIERNO,PICIERNO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305834,GAETANO,PIEPOLI,PIEPOLI ,True,http://dati.camera.it/ocd/persona.rdf/p305834,PIEPOLI,GAETANO
+http://dati.camera.it/ocd/persona.rdf/p301438,MAURO,PILI,PILI ,True,http://dati.camera.it/ocd/persona.rdf/p301438,PILI,MAURO
+http://dati.camera.it/ocd/persona.rdf/p306290,NAZZARENO,PILOZZI,PILOZZI F F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302160,GIANLUCA,PINI,PINI GIANLUCA PINI GIUDITTA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306037,PAOLA,PINNA,PINNA ,True,http://dati.camera.it/ocd/persona.rdf/p306037,PINNA,PAOLA
+http://dati.camera.it/ocd/persona.rdf/p306076,MICHELE,PIRAS,PIRAS ,True,http://dati.camera.it/ocd/persona.rdf/p306076,PIRAS,MICHELE
+http://dati.camera.it/ocd/persona.rdf/p305921,GIROLAMO,PISANO,PISANO ,True,http://dati.camera.it/ocd/persona.rdf/p305921,PISANO,GIROLAMO
+http://dati.camera.it/ocd/persona.rdf/p30350,GIUSEPPE,PISICCHIO,PISICCHIO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302787,VINCENZO,PISO,PISO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50185,LAPO,PISTELLI,PISTELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302117,SERGIO,PIZZOLANTE,PIZZOLANTE C C C C C F C C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306298,ANTONIO,PLACIDO,PLACIDO ,True,http://dati.camera.it/ocd/persona.rdf/p306298,PLACIDO,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305578,ALBRECHT,PLANGGER,PLANGGER ,True,http://dati.camera.it/ocd/persona.rdf/p305578,PLANGGER,ALBRECHT
+http://dati.camera.it/ocd/persona.rdf/p302968,CATIA,POLIDORI,POLIDORI ,True,http://dati.camera.it/ocd/persona.rdf/p302968,POLIDORI,CATIA
+http://dati.camera.it/ocd/persona.rdf/p34180,BARBARA MARIA SIMONETTA,POLLASTRINI,POLLASTRINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305761,RENATA,POLVERINI,POLVERINI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302902,FABIO,PORTA,PORTA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302782,GIACOMO,PORTAS,PORTAS ,True,http://dati.camera.it/ocd/persona.rdf/p302782,PORTAS,GIACOMO
+http://dati.camera.it/ocd/persona.rdf/p305664,EMANUELE,PRATAVIERA,PRATAVIERA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p38350,STEFANIA,PRESTIGIACOMO,PRESTIGIACOMO ,True,http://dati.camera.it/ocd/persona.rdf/p38350,PRESTIGIACOMO,STEFANIA
+http://dati.camera.it/ocd/persona.rdf/p305543,ERNESTO,PREZIOSI,PREZIOSI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305690,ARIS,PRODANI,PRODANI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306280,STEFANO,QUARANTA,QUARANTA F F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306189,LIA,QUARTAPELLE PROCOPIO,QUARTAPELLE PROCOPIO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305620,GIUSEPPE STEFANO,QUINTARELLI,QUINTARELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305620,QUINTARELLI,GIUSEPPE STEFANO
+http://dati.camera.it/ocd/persona.rdf/p306017,MARIANO,RABINO,RABINO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306101,FAUSTO,RACITI,RACITI ,True,http://dati.camera.it/ocd/persona.rdf/p306101,RACITI,FAUSTO
+http://dati.camera.it/ocd/persona.rdf/p305956,MICHELE,RAGOSTA,RAGOSTA F F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301436,FABIO,RAMPELLI,RAMPELLI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306204,ROBERTO,RAMPI,RAMPI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301459,LAURA,RAVETTO,RAVETTO F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300304,ERMETE,REALACCI,REALACCI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306011,FRANCESCO,RIBAUDO,RIBAUDO 1 1 1 1 ,True,http://dati.camera.it/ocd/persona.rdf/p306011,RIBAUDO,FRANCESCO
+http://dati.camera.it/ocd/persona.rdf/p306284,LARA,RICCIATTI,RICCIATTI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305708,MATTEO,RICHETTI,RICHETTI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300558,ANDREA,RIGONI,RIGONI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305688,WALTER,RIZZETTO,RIZZETTO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306088,GIANLUCA,RIZZO,RIZZO ,True,http://dati.camera.it/ocd/persona.rdf/p306088,RIZZO,GIANLUCA
+http://dati.camera.it/ocd/persona.rdf/p302748,EUGENIA MARIA,ROCCELLA,ROCCELLA ,True,http://dati.camera.it/ocd/persona.rdf/p302748,ROCCELLA,EUGENIA MARIA
+http://dati.camera.it/ocd/persona.rdf/p306140,MARIA GRAZIA,ROCCHI,ROCCHI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306181,ANDREA,ROMANO,ROMANO ANDREA M M M M M M M M M M M M M ROMANO FRANCESCO SAVE. ROMANO PAOLO NICOLO’ A A F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300459,GIUSEPPE,ROMELE,ROMELE F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302763,MARCO,RONDINI,RONDINI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300674,ETTORE,ROSATO,ROSATO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302294,PAOLO,ROSSI,ROSSI C C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302780,ANNA,ROSSOMANDO,ROSSOMANDO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305859,MICHELA,ROSTAN,ROSTAN C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305606,GESSICA,ROSTELLATO,ROSTELLATO F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p38560,GIANFRANCO,ROTONDI,ROTONDI ,True,http://dati.camera.it/ocd/persona.rdf/p38560,ROTONDI,GIANFRANCO
+http://dati.camera.it/ocd/persona.rdf/p305650,ALESSIA,ROTTA,ROTTA ,True,http://dati.camera.it/ocd/persona.rdf/p305650,ROTTA,ALESSIA
+http://dati.camera.it/ocd/persona.rdf/p302268,SIMONETTA,RUBINATO,RUBINATO ,True,http://dati.camera.it/ocd/persona.rdf/p302268,RUBINATO,SIMONETTA
+http://dati.camera.it/ocd/persona.rdf/p305945,ANGELO,RUGHETTI,RUGHETTI ,True,http://dati.camera.it/ocd/persona.rdf/p305945,RUGHETTI,ANGELO
+http://dati.camera.it/ocd/persona.rdf/p305796,CARLA,RUOCCO,RUOCCO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50213,PAOLO,RUSSO,RUSSO F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302914,BARBARA,SALTAMARTINI,SALTAMARTINI C C C F F F C C C F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302971,GIANFRANCO,SAMMARCO,SAMMARCO ,True,http://dati.camera.it/ocd/persona.rdf/p302971,SAMMARCO,GIANFRANCO
+http://dati.camera.it/ocd/persona.rdf/p301465,GIOVANNI,SANGA,SANGA ,True,http://dati.camera.it/ocd/persona.rdf/p301465,SANGA,GIOVANNI
+http://dati.camera.it/ocd/persona.rdf/p303107,FRANCESCO,SANNA,SANNA FRANCESCO C C C F F F C C C F F F C SANNA GIOVANNA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306523,ARCANGELO,SANNICANDRO,SANNICANDRO F F F F F F C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300306,JOLE,SANTELLI,SANTELLI ,True,http://dati.camera.it/ocd/persona.rdf/p300306,SANTELLI,JOLE
+http://dati.camera.it/ocd/persona.rdf/p305514,MILENA,SANTERINI,SANTERINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303108,CARLO,SARRO,SARRO ,True,http://dati.camera.it/ocd/persona.rdf/p303108,SARRO,CARLO
+http://dati.camera.it/ocd/persona.rdf/p305960,GIULIA,SARTI,SARTI ,True,http://dati.camera.it/ocd/persona.rdf/p305960,SARTI,GIULIA
+http://dati.camera.it/ocd/persona.rdf/p302882,ELVIRA,SAVINO,SAVINO ELVIRA F F F F F F F F F F F F F SAVINO SANDRA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305516,MARIO,SBERNA,SBERNA C C C F F F C C C F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302833,DANIELA,SBROLLINI,SBROLLINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305862,EMANUELE,SCAGLIUSI,SCAGLIUSI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305933,IVAN,SCALFAROTTO,SCALFAROTTO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p38700,GIAN PIERO,SCANU,SCANU C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305989,GEA,SCHIRO',SCHIRO’ C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305586,MANFRED,SCHULLIAN,SCHULLIAN M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306156,ROSANNA,SCOPELLITI,SCOPELLITI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305626,CHIARA,SCUVERA,SCUVERA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306102,SAMUELE,SEGONI,SEGONI ,True,http://dati.camera.it/ocd/persona.rdf/p306102,SEGONI,SAMUELE
+http://dati.camera.it/ocd/persona.rdf/p305561,ANGELO,SENALDI,SENALDI ,True,http://dati.camera.it/ocd/persona.rdf/p305561,SENALDI,ANGELO
+http://dati.camera.it/ocd/persona.rdf/p300231,MARINA,SERENI,SERENI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305918,CARLO,SIBILIA,SIBILIA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306122,ELISA,SIMONI,SIMONI C C C F F F C C C F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305524,GIRGIS,SORIAL,SORIAL A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306064,GIULIO CESARE,SOTTANELLI,SOTTANELLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305970,MARIA EDERA,SPADONI,SPADONI ,True,http://dati.camera.it/ocd/persona.rdf/p305970,SPADONI,MARIA EDERA
+http://dati.camera.it/ocd/persona.rdf/p305974,ROBERTO,SPERANZA,SPERANZA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305668,ARIANNA,SPESSOTTO,SPESSOTTO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306214,LUCA,SQUERI,SQUERI F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306139,NICOLA,STUMPO,STUMPO ,True,http://dati.camera.it/ocd/persona.rdf/p306139,STUMPO,NICOLA
+http://dati.camera.it/ocd/persona.rdf/p34580,BRUNO,TABACCI,TABACCI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306245,ALESSIO,TACCONI,TACCONI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300392,MARCELLO,TAGLIALATELA,TAGLIALATELA ,True,http://dati.camera.it/ocd/persona.rdf/p300392,TAGLIALATELA,MARCELLO
+http://dati.camera.it/ocd/persona.rdf/p303114,PAOLO,TANCREDI,TANCREDI ,True,http://dati.camera.it/ocd/persona.rdf/p303114,TANCREDI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p305995,LUIGI,TARANTO,TARANTO ,True,http://dati.camera.it/ocd/persona.rdf/p305995,TARANTO,LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305991,GIACOMINO,TARICCO,TARICCO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305844,ASSUNTA,TARTAGLIONE,TARTAGLIONE C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305551,VERONICA,TENTORI,TENTORI ,True,http://dati.camera.it/ocd/persona.rdf/p305551,TENTORI,VERONICA
+http://dati.camera.it/ocd/persona.rdf/p305732,ALESSANDRA,TERROSI,TERROSI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305792,PATRIZIA,TERZONI,TERZONI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305808,MARIETTA,TIDEI,TIDEI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305984,IRENE,TINAGLI,TINAGLI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305910,ANGELO,TOFALO,TOFALO A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305600,DANILO,TONINELLI,TONINELLI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302274,ACHILLE,TOTARO,TOTARO F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306230,DAVIDE,TRIPIEDI,TRIPIEDI A A F F F F F F A F F F F 1 1 1 1 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302772,MARIO,TULLO,TULLO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305614,TANCREDI,TURCO,TURCO ,True,http://dati.camera.it/ocd/persona.rdf/p305614,TURCO,TANCREDI
+http://dati.camera.it/ocd/persona.rdf/p306058,GIANLUCA,VACCA,VACCA A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302811,GUGLIELMO,VACCARO,VACCARO ,True,http://dati.camera.it/ocd/persona.rdf/p302811,VACCARO,GUGLIELMO
+http://dati.camera.it/ocd/persona.rdf/p305849,VALERIA,VALENTE,VALENTE SIMONE VALENTE VALERIA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301559,VALENTINO,VALENTINI,VALENTINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305943,SIMONE,VALIANTE,VALIANTE C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306034,ANDREA,VALLASCAS,VALLASCAS A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305735,FRANCO,VAZIO,VAZIO ,True,http://dati.camera.it/ocd/persona.rdf/p305735,VAZIO,FRANCO
+http://dati.camera.it/ocd/persona.rdf/p306135,ANDREA,VECCHIO,VECCHIO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302977,PAOLO,VELLA,VELLA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301495,SILVIA,VELO,VELO C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305753,LAURA,VENITTELLI,VENITTELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305753,VENITTELLI,LAURA
+http://dati.camera.it/ocd/persona.rdf/p305904,CECILIA,VENTRICELLI,VENTRICELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305904,VENTRICELLI,CECILIA
+http://dati.camera.it/ocd/persona.rdf/p302774,WALTER,VERINI,VERINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305755,MARIA VALENTINA,VEZZALI,VEZZALI ,True,http://dati.camera.it/ocd/persona.rdf/p305755,VEZZALI,MARIA VALENTINA
+http://dati.camera.it/ocd/persona.rdf/p302758,RAFFAELLO,VIGNALI,VIGNALI ,True,http://dati.camera.it/ocd/persona.rdf/p302758,VIGNALI,RAFFAELLO
+http://dati.camera.it/ocd/persona.rdf/p305798,STEFANO,VIGNAROLI,VIGNAROLI F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306091,ALESSIO MATTIA,VILLAROSA,VILLAROSA A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302278,ROSA MARIA,VILLECCO,VILLECCO CALIPARI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305505,PAOLO,VITELLI,VITELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305505,VITELLI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p34730,ELIO,VITO,VITO M M F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305794,ADRIANO,ZACCAGNINI,ZACCAGNINI ,True,http://dati.camera.it/ocd/persona.rdf/p305794,ZACCAGNINI,ADRIANO
+http://dati.camera.it/ocd/persona.rdf/p302850,SANDRA,ZAMPA,ZAMPA C C C F F F C C C F F F ZAN ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305666,ENRICO,ZANETTI,ZANETTI C F F F C C C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305677,GIORGIO,ZANIN,ZANIN C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306104,GIUSEPPE,ZAPPULLA,ZAPPULLA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306521,FILIBERTO,ZARATTI,ZARATTI F F F F F F C C F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305640,DIEGO,ZARDINI,ZARDINI C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305634,DAVIDE,ZOGGIA,ZOGGIA C C C F F F C C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305598,ALBERTO,ZOLEZZI,ZOLEZZI A A F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302940,IGNAZIO,ABRIGNANI,ABRIGNANI F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p34960,FERDINANDO,ADORNATO,ADORNATO C C C F C C F F F C C C A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305782,DONATELLA,AGOSTINELLI,AGOSTINELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305782,AGOSTINELLI,DONATELLA
+http://dati.camera.it/ocd/persona.rdf/p302873,LUCIANO,AGOSTINI,AGOSTINI LUCIANO AGOSTINI ROBERTA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306300,FERDINANDO,AIELLO,AIELLO F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305575,GIORGIO,AIRAUDO,AIRAUDO ,True,http://dati.camera.it/ocd/persona.rdf/p305575,AIRAUDO,GIORGIO
+http://dati.camera.it/ocd/persona.rdf/p306112,LUISELLA,ALBANELLA,ALBANELLA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305518,FERDINANDO,ALBERTI,ALBERTI F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300431,ANGELINO,ALFANO,ALFANO ANGELINO M M M M M M M M M M M M M ALFANO GIOACCHINO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305582,DANIEL,ALFREIDER,ALFREIDER ,True,http://dati.camera.it/ocd/persona.rdf/p305582,ALFREIDER,DANIEL
+http://dati.camera.it/ocd/persona.rdf/p302145,STEFANO,ALLASIA,ALLASIA F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306075,MARIA,AMATO,AMATO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305931,VINCENZO,AMENDOLA,AMENDOLA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p35030,MARIA TERESA,AMICI,AMICI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306308,SOFIA,AMODDIO,AMODDIO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302942,ANTONIO,ANGELUCCI,ANGELUCCI ,True,http://dati.camera.it/ocd/persona.rdf/p302942,ANGELUCCI,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p303024,MARIA,ANTEZZA,ANTEZZA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305946,MICHELE,ANZALDI,ANZALDI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306264,BRUNO,ARCHI,ARCHI F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302791,ILEANA,ARGENTIN,ARGENTIN C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306092,MASSIMO,ARTINI,ARTINI ,True,http://dati.camera.it/ocd/persona.rdf/p306092,ARTINI,MASSIMO
+http://dati.camera.it/ocd/persona.rdf/p305704,ANNA,ASCANI,ASCANI ,True,http://dati.camera.it/ocd/persona.rdf/p305704,ASCANI,ANNA
+http://dati.camera.it/ocd/persona.rdf/p305906,ANGELO GIOACHINO GAETANO,ATTAGUILE,ATTAGUILE F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306094,MARCO,BALDASSARRE,BALDASSARRE F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302089,SIMONE,BALDELLI,BALDELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305008,RENATO,BALDUZZI,BALDUZZI C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306115,SEBASTIANO,BARBANTI,BARBANTI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302857,PIER PAOLO,BARETTA,BARETTA ,True,http://dati.camera.it/ocd/persona.rdf/p302857,BARETTA,PIER PAOLO
+http://dati.camera.it/ocd/persona.rdf/p306001,CRISTINA,BARGERO,BARGERO C C C F C C F F F F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305948,DAVIDE,BARUFFI,BARUFFI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305522,TATIANA,BASILIO,BASILIO ,True,http://dati.camera.it/ocd/persona.rdf/p305522,BASILIO,TATIANA
+http://dati.camera.it/ocd/persona.rdf/p305721,LORENZO,BASSO,BASSO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306142,DEMETRIO,BATTAGLIA,BATTAGLIA ,True,http://dati.camera.it/ocd/persona.rdf/p306142,BATTAGLIA,DEMETRIO
+http://dati.camera.it/ocd/persona.rdf/p305715,SERGIO,BATTELLI,BATTELLI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305547,ALFREDO,BAZOLI,BAZOLI 1 1 1 1 1 1 2 2 2 2 2 2 2 ,True,http://dati.camera.it/ocd/persona.rdf/p305547,BAZOLI,ALFREDO
+http://dati.camera.it/ocd/persona.rdf/p305538,ELEONORA,BECHIS,BECHIS ,True,http://dati.camera.it/ocd/persona.rdf/p305538,BECHIS,ELEONORA
+http://dati.camera.it/ocd/persona.rdf/p301564,TERESA,BELLANOVA,BELLANOVA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302854,GIANLUCA,BENAMATI,BENAMATI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305604,SILVIA,BENEDETTI,BENEDETTI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302867,DEBORAH,BERGAMINI,BERGAMINI ,True,http://dati.camera.it/ocd/persona.rdf/p302867,BERGAMINI,DEBORAH
+http://dati.camera.it/ocd/persona.rdf/p305555,MARINA,BERLINGHIERI,BERLINGHIERI C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301550,MAURIZIO,BERNARDO,BERNARDO ,True,http://dati.camera.it/ocd/persona.rdf/p301550,BERNARDO,MAURIZIO
+http://dati.camera.it/ocd/persona.rdf/p305743,MASSIMILIANO,BERNINI,BERNINI MASSIMILIANO F F F F F F F F A F A F F BERNINI PAOLO F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302917,GIUSEPPE,BERRETTA,BERRETTA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300026,PIER LUIGI,BERSANI,BERSANI ,True,http://dati.camera.it/ocd/persona.rdf/p300026,BERSANI,PIER LUIGI
+http://dati.camera.it/ocd/persona.rdf/p300274,DORINA,BIANCHI,BIANCHI DORINA BIANCHI MARIASTELLA C C C F C C F F F C C C F BIANCHI NICOLA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302124,MICHAELA,BIANCOFIORE,BIANCOFIORE ,True,http://dati.camera.it/ocd/persona.rdf/p302124,BIANCOFIORE,MICHAELA
+http://dati.camera.it/ocd/persona.rdf/p302870,MAURIZIO,BIANCONI,BIANCONI ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302769,SANDRO MARIO,BIASOTTI,BIASOTTI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306150,MATTEO,BIFFONI,BIFFONI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p35410,ROSARIA,BINDI,BINDI C C C F C C F F F C C C A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302190,PAOLA,BINETTI,BINETTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306146,CATERINA,BINI,BINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303028,FRANCA MARIA GRAZIA,BIONDELLI,BIONDELLI A C C F C C F F F C C C F BLAŽINA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302200,LUIGI,BOBBA,BOBBA ,True,http://dati.camera.it/ocd/persona.rdf/p302200,BOBBA,LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305770,SERGIO,BOCCADUTRI,BOCCADUTRI F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302892,FRANCESCO,BOCCIA,BOCCIA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302779,ANTONIO MICHELE,BOCCUZZI,BOCCUZZI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305917,PAOLO,BOLOGNESI,BOLOGNESI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305508,ALBERTO,BOMBASSEI,BOMBASSEI ,True,http://dati.camera.it/ocd/persona.rdf/p305508,BOMBASSEI,ALBERTO
+http://dati.camera.it/ocd/persona.rdf/p305819,LORENZA,BONACCORSI,BONACCORSI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305549,SIMONA,BONAFE',BONAFE’ C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306087,ALFONSO,BONAFEDE,BONAFEDE ,True,http://dati.camera.it/ocd/persona.rdf/p306087,BONAFEDE,ALFONSO
+http://dati.camera.it/ocd/persona.rdf/p302817,FULVIO,BONAVITACOLA,BONAVITACOLA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306003,FRANCESCO,BONIFAZI,BONIFAZI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305563,FRANCESCA,BONOMO,BONOMO ,True,http://dati.camera.it/ocd/persona.rdf/p305563,BONOMO,FRANCESCA
+http://dati.camera.it/ocd/persona.rdf/p306268,FRANCO,BORDO,BORDO FRANCO BORDO MICHELE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306249,MARIO ALEJANDRO,BORGHESE,BORGHESE C C C F F C F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305501,STEFANO,BORGHESI,BORGHESI ,True,http://dati.camera.it/ocd/persona.rdf/p305501,BORGHESI,STEFANO
+http://dati.camera.it/ocd/persona.rdf/p305999,ENRICO,BORGHI,BORGHI ,True,http://dati.camera.it/ocd/persona.rdf/p305999,BORGHI,ENRICO
+http://dati.camera.it/ocd/persona.rdf/p306160,MARIA ELENA,BOSCHI,BOSCHI ,True,http://dati.camera.it/ocd/persona.rdf/p306160,BOSCHI,MARIA ELENA
+http://dati.camera.it/ocd/persona.rdf/p306306,ANTONINO,BOSCO,BOSCO C C C C F C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302812,LUISA,BOSSA,BOSSA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p32460,UMBERTO,BOSSI,BOSSI ,True,http://dati.camera.it/ocd/persona.rdf/p32460,BOSSI,UMBERTO
+http://dati.camera.it/ocd/persona.rdf/p302754,CHIARA,BRAGA,BRAGA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302822,MATTEO,BRAGANTINI,BRAGANTINI MATTEO M M M M M M M M M M M M M BRAGANTINI PAOLA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302838,MICHELA VITTORIA,BRAMBILLA,BRAMBILLA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305680,GIORGIO,BRANDOLIN,BRANDOLIN C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302852,ALESSANDRO,BRATTI,BRATTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305852,GIUSEPPE,BRESCIA,BRESCIA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50437,GIANCLAUDIO,BRESSA,BRESSA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305609,MARCO,BRUGNEROTTO,BRUGNEROTTO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302875,RENATO,BRUNETTA,BRUNETTA F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302282,FRANCESCO,BRUNO,BRUNO C C C F C C F F F C C C F BRUNO BOSSIO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306247,RENATA,BUENO,BUENO ,True,http://dati.camera.it/ocd/persona.rdf/p306247,BUENO,RENATA
+http://dati.camera.it/ocd/persona.rdf/p302834,GIANLUCA,BUONANNO,BUONANNO F F F F A F F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300410,GIOVANNI MARIO SALVINO,BURTONE,BURTONE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305630,FILIPPO,BUSIN,BUSIN F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305602,FRANCESCA,BUSINAROLO,BUSINAROLO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306026,MIRKO,BUSTO,BUSTO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p35640,ROCCO,BUTTIGLIONE,BUTTIGLIONE C C C F F C F F F F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303200,ANNAGRAZIA,CALABRIA,CALABRIA ,True,http://dati.camera.it/ocd/persona.rdf/p303200,CALABRIA,ANNAGRAZIA
+http://dati.camera.it/ocd/persona.rdf/p303032,RAFFAELE,CALABRO',CALABRO’ C C C C C C F F F C C C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305810,MICAELA,CAMPANA,CAMPANA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306050,AZZURRA PIA MARIA,CANCELLERI,CANCELLERI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306046,EMANUELE,CANI,CANI ,True,http://dati.camera.it/ocd/persona.rdf/p306046,CANI,EMANUELE
+http://dati.camera.it/ocd/persona.rdf/p305632,ROBERTO,CAON,CAON F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50138,DAVIDE CARLO,CAPARINI,CAPARINI F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306066,ROBERTO,CAPELLI,CAPELLI ,True,http://dati.camera.it/ocd/persona.rdf/p306066,CAPELLI,ROBERTO
+http://dati.camera.it/ocd/persona.rdf/p302059,DANIELE,CAPEZZONE,CAPEZZONE M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301478,ANGELO,CAPODICASA,CAPODICASA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305929,SALVATORE,CAPONE,CAPONE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305954,SABRINA,CAPOZZOLO,CAPOZZOLO C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305618,ILARIA,CAPUA,CAPUA C C C F C C F F F C C C F 1 1 1 1 1 1 2 2 2 2 2 2 2 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306208,ERNESTO,CARBONE,CARBONE ,True,http://dati.camera.it/ocd/persona.rdf/p306208,CARBONE,ERNESTO
+http://dati.camera.it/ocd/persona.rdf/p302881,DANIELA,CARDINALE,CARDINALE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302792,RENZO,CARELLA,CARELLA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301531,MARIA ROSARIA,CARFAGNA,CARFAGNA F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305868,FRANCESCO,CARIELLO,CARIELLO ,True,http://dati.camera.it/ocd/persona.rdf/p305868,CARIELLO,FRANCESCO
+http://dati.camera.it/ocd/persona.rdf/p306222,PAOLA,CARINELLI,CARINELLI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305539,ELENA,CARNEVALI,CARNEVALI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305729,MARA,CAROCCI,CAROCCI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302760,MARCO,CARRA,CARRA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305776,PIERGIORGIO,CARRESCIA,CARRESCIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306110,MARIA CHIARA,CARROZZA,CARROZZA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306243,MARIO,CARUSO,CARUSO ,True,http://dati.camera.it/ocd/persona.rdf/p306243,CARUSO,MARIO
+http://dati.camera.it/ocd/persona.rdf/p306202,EZIO PRIMO,CASATI,CASATI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305654,FLORIANA,CASELLATO,CASELLATO ,True,http://dati.camera.it/ocd/persona.rdf/p305654,CASELLATO,FLORIANA
+http://dati.camera.it/ocd/persona.rdf/p300398,LUIGI,CASERO,CASERO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305896,FRANCESCO,CASSANO,CASSANO C C F C F F F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305525,LAURA,CASTELLI,CASTELLI F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301573,GIUSEPPINA,CASTIELLO,CASTIELLO F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306158,GIUSEPPE,CASTIGLIONE,CASTIGLIONE M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306068,ANTONIO,CASTRICONE,CASTRICONE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305528,IVAN,CATALANO,CATALANO ,True,http://dati.camera.it/ocd/persona.rdf/p305528,CATALANO,IVAN
+http://dati.camera.it/ocd/persona.rdf/p305005,MARIO,CATANIA,CATANIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300237,FRANCESCO,CATANOSO GENOESE,CATANOSO GENOESE ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302920,MARCO,CAUSI,CAUSI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306276,ANDREA,CAUSIN,CAUSIN ,True,http://dati.camera.it/ocd/persona.rdf/p306276,CAUSIN,ANDREA
+http://dati.camera.it/ocd/persona.rdf/p305787,ANDREA,CECCONI,CECCONI F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302943,SUSANNA,CENNI,CENNI ,True,http://dati.camera.it/ocd/persona.rdf/p302943,CENNI,SUSANNA
+http://dati.camera.it/ocd/persona.rdf/p306149,BRUNO,CENSORE,CENSORE ,True,http://dati.camera.it/ocd/persona.rdf/p306149,CENSORE,BRUNO
+http://dati.camera.it/ocd/persona.rdf/p302950,ELENA,CENTEMERO,CENTEMERO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302887,ANGELO,CERA,CERA ,True,http://dati.camera.it/ocd/persona.rdf/p302887,CERA,ANGELO
+http://dati.camera.it/ocd/persona.rdf/p301439,LORENZO,CESA,CESA ,True,http://dati.camera.it/ocd/persona.rdf/p301439,CESA,LORENZO
+http://dati.camera.it/ocd/persona.rdf/p305925,ANTIMO,CESARO,CESARO ANTIMO C C C F C C F F F C C C F CESARO LUIGI F F F F F F F F F F A F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306292,KHALID,CHAOUKI,CHAOUKI ,True,http://dati.camera.it/ocd/persona.rdf/p306292,CHAOUKI,KHALID
+http://dati.camera.it/ocd/persona.rdf/p305964,GIANFRANCO GIOVANNI,CHIARELLI,CHIARELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305964,CHIARELLI,GIANFRANCO GIOVANNI
+http://dati.camera.it/ocd/persona.rdf/p305535,SILVIA,CHIMIENTI,CHIMIENTI F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p15080,FABRIZIO,CICCHITTO,CICCHITTO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306196,ELEONORA,CIMBRO,CIMBRO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305886,LUCIANO,CIMMINO,CIMMINO ,True,http://dati.camera.it/ocd/persona.rdf/p305886,CIMMINO,LUCIANO
+http://dati.camera.it/ocd/persona.rdf/p305694,TIZIANA,CIPRINI,CIPRINI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300319,EDMONDO,CIRIELLI,CIRIELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306187,GIUSEPPE,CIVATI,CIVATI ,True,http://dati.camera.it/ocd/persona.rdf/p306187,CIVATI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p305939,LAURA,COCCIA,COCCIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302744,MATTEO,COLANINNO,COLANINNO ,True,http://dati.camera.it/ocd/persona.rdf/p302744,COLANINNO,MATTEO
+http://dati.camera.it/ocd/persona.rdf/p306060,ANDREA,COLLETTI,COLLETTI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305898,VEGA,COLONNESE,COLONNESE ,True,http://dati.camera.it/ocd/persona.rdf/p305898,COLONNESE,VEGA
+http://dati.camera.it/ocd/persona.rdf/p305520,CLAUDIO,COMINARDI,COMINARDI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305534,MIRIAM,COMINELLI,COMINELLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305682,PAOLO,COPPOLA,COPPOLA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306031,EMANUELA,CORDA,CORDA ,True,http://dati.camera.it/ocd/persona.rdf/p306031,CORDA,EMANUELA
+http://dati.camera.it/ocd/persona.rdf/p302757,MASSIMO ENRICO,CORSARO,CORSARO ,True,http://dati.camera.it/ocd/persona.rdf/p302757,CORSARO,MASSIMO ENRICO
+http://dati.camera.it/ocd/persona.rdf/p302796,MARIA,COSCIA,COSCIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305588,CELESTINA,COSTANTINO,COSTANTINO ,True,http://dati.camera.it/ocd/persona.rdf/p305588,COSTANTINO,CELESTINA
+http://dati.camera.it/ocd/persona.rdf/p306198,PAOLO,COVA,COVA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306154,STEFANIA,COVELLO,COVELLO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305678,EMANUELE,COZZOLINO,COZZOLINO F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p36130,ROCCO,CRIMI,CRIMI’ C C C F C C F F F C C C F CRIMI ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306022,DAVIDE,CRIPPA,CRIPPA ,True,http://dati.camera.it/ocd/persona.rdf/p306022,CRIPPA,DAVIDE
+http://dati.camera.it/ocd/persona.rdf/p305644,DIEGO,CRIVELLARI,CRIVELLARI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305993,MAGDA,CULOTTA,CULOTTA ,True,http://dati.camera.it/ocd/persona.rdf/p305993,CULOTTA,MAGDA
+http://dati.camera.it/ocd/persona.rdf/p302422,GIOVANNI,CUPERLO,CUPERLO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306020,FABIANA,DADONE,DADONE F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305773,FEDERICA,DAGA,DAGA ,True,http://dati.camera.it/ocd/persona.rdf/p305773,DAGA,FEDERICA
+http://dati.camera.it/ocd/persona.rdf/p302873,LUCIANO,AGOSTINI,D’AGOSTINO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306272,ALESSANDRO,ZAN,D’ALESSANDRO F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306164,LUIGI,DALLAI,DALLAI ,True,http://dati.camera.it/ocd/persona.rdf/p306164,DALLAI,LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305967,MATTEO,DALL'OSSO,DALL’OSSO ,True,http://dati.camera.it/ocd/persona.rdf/p305967,DALL'OSSO,MATTEO
+http://dati.camera.it/ocd/persona.rdf/p302832,GIAN PIETRO,DAL MORO,DAL MORO C C C F C C F F F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305838,GIUSEPPE,D'AMBROSIO,D’AMBROSIO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306218,STEFANO,DAMBRUOSO,DAMBRUOSO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301532,CESARE,DAMIANO,DAMIANO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305646,VINCENZO,D'ARIENZO,D’ARIENZO C C C F C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305908,ANTONIO,DECARO,DECARO ,True,http://dati.camera.it/ocd/persona.rdf/p305908,DECARO,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305921,GIROLAMO,PISANO,DE GIROLAMO C C C C C C C F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306062,DANIELE,DEL GROSSO,DEL GROSSO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305597,LORENZO,DELLAI,DELLAI C C C F C C F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305848,DIEGO,DE LORENZIS,DE LORENZIS F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305656,ROGER,DE MENECH,DE MENECH C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302856,PAOLA,DE MICHELI,DE MICHELI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306296,GIUSEPPE,DE MITA,DE MITA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305791,ALESSANDRO,DI BATTISTA,DI BATTISTA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306045,CHIARA,DI BENEDETTO,DI BENEDETTO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306120,FEDERICA,DIENI,DIENI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300327,RAFFAELE,DI GIOIA,DI GIOIA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305850,MARCO,DI MAIO,DI MAIO LUIGI M M M M M M M M M F A F F DI MAIO MARCO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301576,TERESA MARIA,DI SALVO,DI SALVO F F F F F C F A F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302883,ANTONIO,DISTASO,DISTASO ,True,http://dati.camera.it/ocd/persona.rdf/p302883,DISTASO,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p306042,GIULIA,DI VITA,DI VITA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306126,MARCO,DONATI,DONATI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302058,DONATELLA,DURANTI,DURANTI D’UVA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306168,DAVID,ERMINI,ERMINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305710,MARILENA,FABBRI,FABBRI ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302871,MONICA,FAENZI,FAENZI F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305951,LUIGI,FAMIGLIETTI,FAMIGLIETTI ,True,http://dati.camera.it/ocd/persona.rdf/p305951,FAMIGLIETTI,LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305612,MATTIA,FANTINATI,FANTINATI ,True,http://dati.camera.it/ocd/persona.rdf/p305612,FANTINATI,MATTIA
+http://dati.camera.it/ocd/persona.rdf/p306172,EDOARDO,FANUCCI,FANUCCI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306005,DAVIDE,FARAONE,FARAONE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302138,DANIELE,FARINA,FARINA DANIELE F F F F F F F C F F C F F FARINA GIANNI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305806,STEFANO,FASSINA,FASSINA F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305739,FEDERICO,FAUTTILLI,FAUTTILLI C C C F F F F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302153,GIOVANNI,FAVA,FAVA F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301509,MARCO,FEDI,FEDI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302983,MASSIMILIANO,FEDRIGA,FEDRIGA F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302751,DONATELLA,FERRANTI,FERRANTI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301489,FRANCESCO,FERRARA,FERRARA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305972,VITTORIO,FERRARESI,FERRARESI F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305616,ALAN,FERRARI,FERRARI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306286,ANDREA,FERRO,FERRO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301452,EMANUELE,FIANO,FIANO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305890,ROBERTO,FICO,FICO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301540,MASSIMO,FIORIO,FIORIO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50079,GIUSEPPE,FIORONI,FIORONI ,True,http://dati.camera.it/ocd/persona.rdf/p50079,FIORONI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p301551,RAFFAELE,FITTO,FITTO ,True,http://dati.camera.it/ocd/persona.rdf/p301551,FITTO,RAFFAELE
+http://dati.camera.it/ocd/persona.rdf/p305978,VINCENZO,FOLINO,FOLINO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301548,CINZIA MARIA,FONTANA,FONTANA CINZIA MARIA C C C F C C F F F C C C F FONTANA GREGORIO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302860,PAOLO,FONTANELLI,FONTANELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300541,ANIELLO,FORMISANO,FORMISANO ,True,http://dati.camera.it/ocd/persona.rdf/p300541,FORMISANO,ANIELLO
+http://dati.camera.it/ocd/persona.rdf/p306162,FILIPPO,FOSSATI,FOSSATI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305595,RICCARDO,FRACCARO,FRACCARO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305559,GIAN MARIO,FRAGOMELI,FRAGOMELI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300246,DARIO,FRANCESCHINI,FRANCESCHINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305880,NICOLA,FRATOIANNI,FRATOIANNI ,True,http://dati.camera.it/ocd/persona.rdf/p305880,FRATOIANNI,NICOLA
+http://dati.camera.it/ocd/persona.rdf/p305569,SILVIA,FREGOLENT,FREGOLENT C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305748,LUCA,FRUSONE,FRUSONE ,True,http://dati.camera.it/ocd/persona.rdf/p305748,FRUSONE,LUCA
+http://dati.camera.it/ocd/persona.rdf/p302955,BENEDETTO FRANCESCO,FUCCI,FUCCI ,True,http://dati.camera.it/ocd/persona.rdf/p302955,FUCCI,BENEDETTO FRANCESCO
+http://dati.camera.it/ocd/persona.rdf/p305856,ALESSANDRO,FURNARI,FURNARI F F F F F F F F F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305553,MARIA CHIARA,GADDA,GADDA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306096,CHIARA,GAGNARLI,GAGNARLI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50258,GIUSEPPE,GALATI,GALATI ,True,http://dati.camera.it/ocd/persona.rdf/p50258,GALATI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p305692,ADRIANA EDEN SUSANNA,GALGANO,GALGANO C C C F C C F F F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305706,CARLO,GALLI,GALLI CARLO C C C F C C F F F C C C F GALLI GIAMPAOLO C C C F C C F F F C C C F 1 1 1 1 1 1 2 2 2 2 2 2 2 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305696,FILIPPO,GALLINELLA,GALLINELLA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305900,LUIGI,GALLO,GALLO LUIGI F F F F F F F F A F A F F GALLO RICCARDO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303065,GUIDO,GALPERTI,GALPERTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305936,PAOLO,GANDOLFI,GANDOLFI C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302899,LAURA,GARAVINI,GARAVINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300639,DANIELA,GARNERO SANTANCHE',GARNERO SANTANCHE’ ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302956,VINCENZO,GAROFALO,GAROFALO ,True,http://dati.camera.it/ocd/persona.rdf/p302956,GAROFALO,VINCENZO
+http://dati.camera.it/ocd/persona.rdf/p301545,FRANCESCO SAVERIO,GAROFANI,GAROFANI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302790,ENRICO,GASBARRA,GASBARRA C C C F C C F F F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306206,DANIELA MATILDE MARIA,GASPARINI,GASPARINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305580,RENATE,GEBHARD,GEBHARD ,True,http://dati.camera.it/ocd/persona.rdf/p305580,GEBHARD,RENATE
+http://dati.camera.it/ocd/persona.rdf/p306175,FEDERICO,GELLI,GELLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301449,MARIASTELLA,GELMINI,GELMINI F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302918,FRANCANTONIO,GENOVESE,GENOVESE C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300637,PAOLO,GENTILONI SILVERI,GENTILONI SILVERI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301485,MANUELA,GHIZZONI,GHIZZONI C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300480,ROBERTO,GIACHETTI,GIACHETTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305719,ANNA,GIACOBBE,GIACOBBE C C C C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301056,ANTONELLO,GIACOMELLI,GIACOMELLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301533,SESTINO,GIACOMONI,GIACOMONI F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302957,GABRIELLA,GIAMMANCO,GIAMMANCO ,True,http://dati.camera.it/ocd/persona.rdf/p302957,GIAMMANCO,GABRIELLA
+http://dati.camera.it/ocd/persona.rdf/p305686,GIAN LUIGI,GIGLI,GIGLI ,True,http://dati.camera.it/ocd/persona.rdf/p305686,GIGLI,GIAN LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305638,FEDERICO,GINATO,GINATO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302897,DARIO,GINEFRA,GINEFRA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302921,TOMMASO,GINOBLE,GINOBLE ,True,http://dati.camera.it/ocd/persona.rdf/p302921,GINOBLE,TOMMASO
+http://dati.camera.it/ocd/persona.rdf/p306294,GIANCARLO,GIORDANO,GIORDANO GIANCARLO GIORDANO SILVIA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50160,ALBERTO,GIORGETTI,GIORGETTI ALBERTO M M M M M M M M M M M M M GIORGETTI GIANCARLO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305567,ANDREA,GIORGIS,GIORGIS C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305511,GREGORIO,GITTI,GITTI ,True,http://dati.camera.it/ocd/persona.rdf/p305511,GITTI,GREGORIO
+http://dati.camera.it/ocd/persona.rdf/p306200,FABRIZIA,GIULIANI,GIULIANI C C C F C C F C F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305701,GIAMPIERO,GIULIETTI,GIULIETTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302862,MARIALUISA,GNECCHI,GNECCHI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302128,SANDRO,GOZI,GOZI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305784,MARTA,GRANDE,GRANDE F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301562,GEROLAMO,GRASSI,GRASSI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306106,MARIA GAETANA,GRECO,GRECO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305821,MONICA,GREGORI,GREGORI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306008,CHIARA,GRIBAUDO,GRIBAUDO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306071,GIULIA,GRILLO,GRILLO F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301455,PAOLO,GRIMOLDI,GRIMOLDI ,True,http://dati.camera.it/ocd/persona.rdf/p301455,GRIMOLDI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p305557,GIUSEPPE,GUERINI,GUERINI GIUSEPPE C C C F C C F F F C C C F GUERINI LORENZO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p34810,MAURO,GUERRA,GUERRA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306582,GUIDO,GUIDESI,GUIDESI F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306117,MARIA TINDARA,GULLO,GULLO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306079,ITZHAK YORAM,GUTGELD,GUTGELD C C C F C C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306302,MARIA,IACONO,IACONO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305746,CRISTIAN,IANNUZZI,IANNUZZI CRISTIAN F F F F F F F F A F A F F IANNUZZI TINO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305864,LEONARDO,IMPEGNO,IMPEGNO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305702,ANTONELLA,INCERTI,INCERTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305503,CRISTIAN,INVERNIZZI,INVERNIZZI F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305952,VANNA,IORI,IORI C C F C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306270,FLORIAN,KRONBICHLER,KRONBICHLER ,True,http://dati.camera.it/ocd/persona.rdf/p306270,KRONBICHLER,FLORIAN
+http://dati.camera.it/ocd/persona.rdf/p305827,KASHETU,KYENGE,KYENGE ,True,http://dati.camera.it/ocd/persona.rdf/p305827,KYENGE,KASHETU
+http://dati.camera.it/ocd/persona.rdf/p305872,VINCENZA,LABRIOLA,LABRIOLA ,True,http://dati.camera.it/ocd/persona.rdf/p305872,LABRIOLA,VINCENZA
+http://dati.camera.it/ocd/persona.rdf/p306266,LUIGI,LACQUANITI,LACQUANITI F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302773,PIETRO,LAFFRANCO,LAFFRANCO F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306194,FRANCESCO,LAFORGIA,LAFORGIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300442,GIORGIO,LAINATI,LAINATI F F F F A F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305662,MARCO,MARCOLIN,LA MARCA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303072,COSIMO,LATRONICO,LATRONICO F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305749,ENZO,LATTUCA,LATTUCA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306099,GIUSEPPE,LAURICELLA,LAURICELLA C C C F C C F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306261,FABIO,LAVAGNO,LAVAGNO ,True,http://dati.camera.it/ocd/persona.rdf/p306261,LAVAGNO,FABIO
+http://dati.camera.it/ocd/persona.rdf/p300879,GIOVANNI,LEGNINI,LEGNINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301480,DONATA,LENZI,LENZI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50447,ANTONIO,LEONE,LEONE C C C C F C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305751,DANILO,LEVA,LEVA ,True,http://dati.camera.it/ocd/persona.rdf/p305751,LEVA,DANILO
+http://dati.camera.it/ocd/persona.rdf/p306220,GIANFRANCO,LIBRANDI,LIBRANDI ,True,http://dati.camera.it/ocd/persona.rdf/p306220,LIBRANDI,GIANFRANCO
+http://dati.camera.it/ocd/persona.rdf/p305982,MIRELLA,LIUZZI,LIUZZI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306210,PIA ELDA,LOCATELLI,LOCATELLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305763,EMANUELE,LODOLINI,LODOLINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305788,ROBERTA,LOMBARDI,LOMBARDI M M M M M M M M M M M M M 1 1 1 1 1 1 2 2 2 2 2 2 2 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301477,CARMELO,LO MONTE,LO MONTE ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303074,PIERO,LONGO,LONGO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306082,MARIALUCIA,LOREFICE,LOREFICE F F F F F F F F A F A F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302783,BEATRICE,LORENZIN,LORENZIN ,True,http://dati.camera.it/ocd/persona.rdf/p302783,LORENZIN,BEATRICE
+http://dati.camera.it/ocd/persona.rdf/p302891,ALBERTO,LOSACCO,LOSACCO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306128,LUCA,LOTTI,LOTTI ,True,http://dati.camera.it/ocd/persona.rdf/p306128,LOTTI,LUCA
+http://dati.camera.it/ocd/persona.rdf/p306048,LOREDANA,LUPO,LUPO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302789,MARIA ANNA,MADIA,MADIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305742,PATRIZIA,MAESTRI,MAESTRI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306145,ERNESTO,MAGORNO,MAGORNO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306310,PASQUALE,MAIETTA,MAIETTA ,True,http://dati.camera.it/ocd/persona.rdf/p306310,MAIETTA,PASQUALE
+http://dati.camera.it/ocd/persona.rdf/p305673,GIANNA,MALISANI,MALISANI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306212,SIMONA FLAVIA,MALPEZZI,MALPEZZI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306119,ANDREA,MANCIULLI,MANCIULLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305876,MASSIMILIANO,MANFREDI,MANFREDI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305712,MATTEO,MANTERO,MANTERO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305771,IRENE,MANZI,MANZI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301467,DANIELE,MARANTELLI,MARANTELLI ,True,http://dati.camera.it/ocd/persona.rdf/p301467,MARANTELLI,DANIELE
+http://dati.camera.it/ocd/persona.rdf/p305802,MARIO,MARAZZITI,MARAZZITI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305765,MARCO,MARCHETTI,MARCHETTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301481,MAINO,MARCHI,MARCHI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305662,MARCO,MARCOLIN,MARCOLIN ,True,http://dati.camera.it/ocd/persona.rdf/p305662,MARCOLIN,MARCO
+http://dati.camera.it/ocd/persona.rdf/p305662,MARCO,MARCOLIN,MARCON ,False,http://dati.camera.it/ocd/persona.rdf/p306274,MARCON,GIULIO
+http://dati.camera.it/ocd/persona.rdf/p306018,RUDI FRANCO,MARGUERETTAZ,MARGUERETTAZ C C C F C C F F F C A C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300293,RAFFAELLA,MARIANI,MARIANI ,True,http://dati.camera.it/ocd/persona.rdf/p300293,MARIANI,RAFFAELLA
+http://dati.camera.it/ocd/persona.rdf/p306185,MARIA,MARZANO,MARIANO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301435,ANTONIO,MAROTTA,MAROTTA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302845,SIRO,MARROCU,MARROCU ,True,http://dati.camera.it/ocd/persona.rdf/p302845,MARROCU,SIRO
+http://dati.camera.it/ocd/persona.rdf/p305813,UMBERTO,MARRONI,MARRONI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300483,ANDREA,MARTELLA,MARTELLA C C C F C C F F F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305628,GIOVANNA,MARTELLI,MARTELLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305968,ROBERTO,MARTI,MARTI ,True,http://dati.camera.it/ocd/persona.rdf/p305968,MARTI,ROBERTO
+http://dati.camera.it/ocd/persona.rdf/p301492,MARCO,MARTINELLI,MARTINELLI ,True,http://dati.camera.it/ocd/persona.rdf/p301492,MARTINELLI,MARCO
+http://dati.camera.it/ocd/persona.rdf/p37470,ANTONIO,MARTINO,MARTINO ANTONIO F F F F F F F F F F F F F MARTINO PIERDOMENICO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306080,MARIA,MARZANA,MARZANA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306185,MARIA,MARZANO,MARZANO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305887,ANTONIO,MATARRELLI,MATARRELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305887,MATARRELLI,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305830,SALVATORE,MATARRESE,MATARRESE C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305573,DAVIDE,MATTIELLO,MATTIELLO ,True,http://dati.camera.it/ocd/persona.rdf/p305573,MATTIELLO,DAVIDE
+http://dati.camera.it/ocd/persona.rdf/p306176,MATTEO,MAURI,MAURI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305592,ANDREA,MAZZIOTTI DI CELSO,MAZZIOTTI DI CELSO C C C F F F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305723,ALESSANDRO,MAZZOLI,MAZZOLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p33730,GENEROSO,MELILLA,MELILLA F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305725,FABIO,MELILLI,MELILLI C C C F C C F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305727,MARCO,MELONI,MELONI GIORGIA M M M M M M M M M M M M M MELONI MARCO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301506,RICARDO ANTONIO,MERLO,MERLO ,True,http://dati.camera.it/ocd/persona.rdf/p301506,MERLO,RICARDO ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305817,MARCO,MICCOLI,MICCOLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305894,SALVATORE,MICILLO,MICILLO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302164,GENNARO,MIGLIORE,MIGLIORE F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300296,LORENA,MILANATO,MILANATO F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302913,ANTONINO,MINARDO,MINARDO ,True,http://dati.camera.it/ocd/persona.rdf/p302913,MINARDO,ANTONINO
+http://dati.camera.it/ocd/persona.rdf/p301462,ANTONIO,MISIANI,MISIANI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302889,SALVATORE,MISURACA,MISURACA ,True,http://dati.camera.it/ocd/persona.rdf/p302889,MISURACA,SALVATORE
+http://dati.camera.it/ocd/persona.rdf/p302831,FEDERICA,MOGHERINI,MOGHERINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305652,MICHELE,MOGNATO,MOGNATO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305986,BRUNO,MOLEA,MOLEA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302762,NICOLA,MOLTENI,MOLTENI F F F F A A F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50047,FRANCESCO,MONACO,MONACO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305509,GIOVANNI,MONCHIERO,MONCHIERO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302248,COLOMBA,MONGIELLO,MONGIELLO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305860,DANIELE,MONTRONI,MONTRONI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302794,ROBERTO,MORASSUT,MORASSUT C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305636,ALESSANDRA,MORETTI,MORETTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305660,SARA,MORETTO,MORETTO ,True,http://dati.camera.it/ocd/persona.rdf/p305660,MORETTO,SARA
+http://dati.camera.it/ocd/persona.rdf/p302747,ALESSIA MARIA,MOSCA,MOSCA ,True,http://dati.camera.it/ocd/persona.rdf/p302747,MOSCA,ALESSIA MARIA
+http://dati.camera.it/ocd/persona.rdf/p306013,ANTONINO,MOSCATT,MOSCATT ,True,http://dati.camera.it/ocd/persona.rdf/p306013,MOSCATT,ANTONINO
+http://dati.camera.it/ocd/persona.rdf/p302961,GIOVANNI CARLO FRANCESCO,MOTTOLA,MOTTOLA F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305962,MARA,MUCCI,MUCCI ,True,http://dati.camera.it/ocd/persona.rdf/p305962,MUCCI,MARA
+http://dati.camera.it/ocd/persona.rdf/p306053,ROMINA,MURA,MURA ,True,http://dati.camera.it/ocd/persona.rdf/p306053,MURA,ROMINA
+http://dati.camera.it/ocd/persona.rdf/p302858,DELIA,MURER,MURER C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301578,ALESSANDRO,NACCARATO,NACCARATO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306136,DARIO,NARDELLA,NARDELLA ,True,http://dati.camera.it/ocd/persona.rdf/p306136,NARDELLA,DARIO
+http://dati.camera.it/ocd/persona.rdf/p306193,MARTINA,NARDI,NARDI 1 1 1 1 1 1 2 2 2 2 2 2 2 ,True,http://dati.camera.it/ocd/persona.rdf/p306193,NARDI,MARTINA
+http://dati.camera.it/ocd/persona.rdf/p305642,GIULIA,NARDUOLO,NARDUOLO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302962,GAETANO,NASTRI,NASTRI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306109,DALILA,NESCI,NESCI ,True,http://dati.camera.it/ocd/persona.rdf/p306109,NESCI,DALILA
+http://dati.camera.it/ocd/persona.rdf/p306183,EDOARDO,NESI,NESI ,True,http://dati.camera.it/ocd/persona.rdf/p306183,NESI,EDOARDO
+http://dati.camera.it/ocd/persona.rdf/p301515,MARISA,NICCHI,NICCHI ,True,http://dati.camera.it/ocd/persona.rdf/p301515,NICCHI,MARISA
+http://dati.camera.it/ocd/persona.rdf/p305590,MICHELE,NICOLETTI,NICOLETTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306038,RICCARDO,NUTI,NUTI F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305737,ROBERTA,OLIARO,OLIARO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301408,NICODEMO NAZZARENO,OLIVERIO,OLIVERIO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305815,MATTEO,ORFINI,ORFINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301463,ANDREA,ORLANDO,ORLANDO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305584,MAURO,OTTOBRE,OTTOBRE ,True,http://dati.camera.it/ocd/persona.rdf/p305584,OTTOBRE,MAURO
+http://dati.camera.it/ocd/persona.rdf/p305866,ALBERTO,PAGANI,PAGANI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305866,ALBERTO,PAGANI,PAGANO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306282,GIOVANNI,PAGLIA,PAGLIA F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306304,ERASMO,PALAZZOTTO,PALAZZOTTO ,True,http://dati.camera.it/ocd/persona.rdf/p306304,PALAZZOTTO,ERASMO
+http://dati.camera.it/ocd/persona.rdf/p305959,ROCCO,PALESE,PALESE F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305871,GIOVANNA,PALMA,PALMA C C C F C C F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300453,ANTONIO,PALMIERI,PALMIERI F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50366,ELIO MASSIMO,PALMIZIO,PALMIZIO F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305883,ANNA LUCIA LISA,PANNARALE,PANNARALE M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305874,MASSIMO,PAOLUCCI,PAOLUCCI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306124,PAOLO,PARENTELA,PARENTELA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305941,VALENTINA,PARIS,PARIS C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302868,MASSIMO,PARISI,PARISI F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306152,DARIO,PARRINI,PARRINI C C C F C C F F C C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305658,ORESTE,PASTORELLI,PASTORELLI C C C F F C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305733,LUCA,PASTORINO,PASTORINO ,True,http://dati.camera.it/ocd/persona.rdf/p305733,PASTORINO,LUCA
+http://dati.camera.it/ocd/persona.rdf/p305565,EDOARDO,PATRIARCA,PATRIARCA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305924,MICHELE,PELILLO,PELILLO C C C F C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306278,SERENA,PELLEGRINO,PELLEGRINO F F F F F F F F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302746,VINICIO GIUSEPPE GUIDO,PELUFFO,PELUFFO C C F C C F F F C C C F PES M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306232,DANIELE,PESCO,PESCO F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305825,EMMA,PETITTI,PETITTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305530,COSIMO,PETRAROLI,PETRAROLI ,True,http://dati.camera.it/ocd/persona.rdf/p305530,PETRAROLI,COSIMO
+http://dati.camera.it/ocd/persona.rdf/p302967,GIOVANNA,PETRENGA,PETRENGA F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305778,PAOLO,PETRINI,PETRINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306288,ILEANA CATHIA,PIAZZONI,PIAZZONI F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301500,GUGLIELMO,PICCHI,PICCHI F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306009,TERESA,PICCIONE,PICCIONE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305997,FLAVIA,PICCOLI,PICCOLI NARDELLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305878,GIORGIO,PICCOLO,PICCOLO GIORGIO C C C F C C F F F C C C F PICCOLO SALVATORE C C C F C C F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302255,FILIPPO,PICCONE,PICCONE ,True,http://dati.camera.it/ocd/persona.rdf/p302255,PICCONE,FILIPPO
+http://dati.camera.it/ocd/persona.rdf/p302809,GIUSEPPINA,PICIERNO,PICIERNO C C C F C C F F F C C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305834,GAETANO,PIEPOLI,PIEPOLI ,True,http://dati.camera.it/ocd/persona.rdf/p305834,PIEPOLI,GAETANO
+http://dati.camera.it/ocd/persona.rdf/p301438,MAURO,PILI,PILI ,True,http://dati.camera.it/ocd/persona.rdf/p301438,PILI,MAURO
+http://dati.camera.it/ocd/persona.rdf/p306290,NAZZARENO,PILOZZI,PILOZZI F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302160,GIANLUCA,PINI,PINI GIANLUCA PINI GIUDITTA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306037,PAOLA,PINNA,PINNA ,True,http://dati.camera.it/ocd/persona.rdf/p306037,PINNA,PAOLA
+http://dati.camera.it/ocd/persona.rdf/p306076,MICHELE,PIRAS,PIRAS ,True,http://dati.camera.it/ocd/persona.rdf/p306076,PIRAS,MICHELE
+http://dati.camera.it/ocd/persona.rdf/p305921,GIROLAMO,PISANO,PISANO ,True,http://dati.camera.it/ocd/persona.rdf/p305921,PISANO,GIROLAMO
+http://dati.camera.it/ocd/persona.rdf/p30350,GIUSEPPE,PISICCHIO,PISICCHIO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302787,VINCENZO,PISO,PISO C C C C C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50185,LAPO,PISTELLI,PISTELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302117,SERGIO,PIZZOLANTE,PIZZOLANTE C C C C C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306298,ANTONIO,PLACIDO,PLACIDO ,True,http://dati.camera.it/ocd/persona.rdf/p306298,PLACIDO,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305578,ALBRECHT,PLANGGER,PLANGGER ,True,http://dati.camera.it/ocd/persona.rdf/p305578,PLANGGER,ALBRECHT
+http://dati.camera.it/ocd/persona.rdf/p302968,CATIA,POLIDORI,POLIDORI ,True,http://dati.camera.it/ocd/persona.rdf/p302968,POLIDORI,CATIA
+http://dati.camera.it/ocd/persona.rdf/p34180,BARBARA MARIA SIMONETTA,POLLASTRINI,POLLASTRINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305761,RENATA,POLVERINI,POLVERINI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302902,FABIO,PORTA,PORTA C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302782,GIACOMO,PORTAS,PORTAS ,True,http://dati.camera.it/ocd/persona.rdf/p302782,PORTAS,GIACOMO
+http://dati.camera.it/ocd/persona.rdf/p305664,EMANUELE,PRATAVIERA,PRATAVIERA F F F F A A F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p38350,STEFANIA,PRESTIGIACOMO,PRESTIGIACOMO ,True,http://dati.camera.it/ocd/persona.rdf/p38350,PRESTIGIACOMO,STEFANIA
+http://dati.camera.it/ocd/persona.rdf/p305543,ERNESTO,PREZIOSI,PREZIOSI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305690,ARIS,PRODANI,PRODANI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306280,STEFANO,QUARANTA,QUARANTA F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306189,LIA,QUARTAPELLE PROCOPIO,QUARTAPELLE PROCOPIO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305620,GIUSEPPE STEFANO,QUINTARELLI,QUINTARELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305620,QUINTARELLI,GIUSEPPE STEFANO
+http://dati.camera.it/ocd/persona.rdf/p306017,MARIANO,RABINO,RABINO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306101,FAUSTO,RACITI,RACITI ,True,http://dati.camera.it/ocd/persona.rdf/p306101,RACITI,FAUSTO
+http://dati.camera.it/ocd/persona.rdf/p305956,MICHELE,RAGOSTA,RAGOSTA F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301436,FABIO,RAMPELLI,RAMPELLI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306204,ROBERTO,RAMPI,RAMPI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301459,LAURA,RAVETTO,RAVETTO F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300304,ERMETE,REALACCI,REALACCI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306011,FRANCESCO,RIBAUDO,RIBAUDO 1 1 1 1 1 1 2 2 2 2 2 2 2 ,True,http://dati.camera.it/ocd/persona.rdf/p306011,RIBAUDO,FRANCESCO
+http://dati.camera.it/ocd/persona.rdf/p306284,LARA,RICCIATTI,RICCIATTI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305708,MATTEO,RICHETTI,RICHETTI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300558,ANDREA,RIGONI,RIGONI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305688,WALTER,RIZZETTO,RIZZETTO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306088,GIANLUCA,RIZZO,RIZZO ,True,http://dati.camera.it/ocd/persona.rdf/p306088,RIZZO,GIANLUCA
+http://dati.camera.it/ocd/persona.rdf/p302748,EUGENIA MARIA,ROCCELLA,ROCCELLA ,True,http://dati.camera.it/ocd/persona.rdf/p302748,ROCCELLA,EUGENIA MARIA
+http://dati.camera.it/ocd/persona.rdf/p306140,MARIA GRAZIA,ROCCHI,ROCCHI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306181,ANDREA,ROMANO,ROMANO ANDREA M M M M M M M M M M M M M ROMANO FRANCESCO SAVE. ROMANO PAOLO NICOLO’ F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300459,GIUSEPPE,ROMELE,ROMELE F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302763,MARCO,RONDINI,RONDINI F F F F A A F F F F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300674,ETTORE,ROSATO,ROSATO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302294,PAOLO,ROSSI,ROSSI C C C F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302780,ANNA,ROSSOMANDO,ROSSOMANDO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305859,MICHELA,ROSTAN,ROSTAN C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305606,GESSICA,ROSTELLATO,ROSTELLATO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p38560,GIANFRANCO,ROTONDI,ROTONDI ,True,http://dati.camera.it/ocd/persona.rdf/p38560,ROTONDI,GIANFRANCO
+http://dati.camera.it/ocd/persona.rdf/p305650,ALESSIA,ROTTA,ROTTA C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302268,SIMONETTA,RUBINATO,RUBINATO ,True,http://dati.camera.it/ocd/persona.rdf/p302268,RUBINATO,SIMONETTA
+http://dati.camera.it/ocd/persona.rdf/p305945,ANGELO,RUGHETTI,RUGHETTI ,True,http://dati.camera.it/ocd/persona.rdf/p305945,RUGHETTI,ANGELO
+http://dati.camera.it/ocd/persona.rdf/p305796,CARLA,RUOCCO,RUOCCO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50213,PAOLO,RUSSO,RUSSO F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302914,BARBARA,SALTAMARTINI,SALTAMARTINI ,True,http://dati.camera.it/ocd/persona.rdf/p302914,SALTAMARTINI,BARBARA
+http://dati.camera.it/ocd/persona.rdf/p302971,GIANFRANCO,SAMMARCO,SAMMARCO ,True,http://dati.camera.it/ocd/persona.rdf/p302971,SAMMARCO,GIANFRANCO
+http://dati.camera.it/ocd/persona.rdf/p301465,GIOVANNI,SANGA,SANGA ,True,http://dati.camera.it/ocd/persona.rdf/p301465,SANGA,GIOVANNI
+http://dati.camera.it/ocd/persona.rdf/p303107,FRANCESCO,SANNA,SANNA FRANCESCO C C C F C C F F F C C C F SANNA GIOVANNA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306523,ARCANGELO,SANNICANDRO,SANNICANDRO F F F F F F F C F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300306,JOLE,SANTELLI,SANTELLI ,True,http://dati.camera.it/ocd/persona.rdf/p300306,SANTELLI,JOLE
+http://dati.camera.it/ocd/persona.rdf/p305514,MILENA,SANTERINI,SANTERINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303108,CARLO,SARRO,SARRO ,True,http://dati.camera.it/ocd/persona.rdf/p303108,SARRO,CARLO
+http://dati.camera.it/ocd/persona.rdf/p305960,GIULIA,SARTI,SARTI ,True,http://dati.camera.it/ocd/persona.rdf/p305960,SARTI,GIULIA
+http://dati.camera.it/ocd/persona.rdf/p302882,ELVIRA,SAVINO,SAVINO ELVIRA F F F F F F F F F F F F SAVINO SANDRA F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305516,MARIO,SBERNA,SBERNA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302833,DANIELA,SBROLLINI,SBROLLINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305862,EMANUELE,SCAGLIUSI,SCAGLIUSI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305933,IVAN,SCALFAROTTO,SCALFAROTTO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p38700,GIAN PIERO,SCANU,SCANU C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305989,GEA,SCHIRO',SCHIRO’ C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305586,MANFRED,SCHULLIAN,SCHULLIAN M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306156,ROSANNA,SCOPELLITI,SCOPELLITI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305626,CHIARA,SCUVERA,SCUVERA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306102,SAMUELE,SEGONI,SEGONI ,True,http://dati.camera.it/ocd/persona.rdf/p306102,SEGONI,SAMUELE
+http://dati.camera.it/ocd/persona.rdf/p305561,ANGELO,SENALDI,SENALDI ,True,http://dati.camera.it/ocd/persona.rdf/p305561,SENALDI,ANGELO
+http://dati.camera.it/ocd/persona.rdf/p300231,MARINA,SERENI,SERENI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305918,CARLO,SIBILIA,SIBILIA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306122,ELISA,SIMONI,SIMONI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305524,GIRGIS,SORIAL,SORIAL F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306064,GIULIO CESARE,SOTTANELLI,SOTTANELLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305970,MARIA EDERA,SPADONI,SPADONI ,True,http://dati.camera.it/ocd/persona.rdf/p305970,SPADONI,MARIA EDERA
+http://dati.camera.it/ocd/persona.rdf/p305974,ROBERTO,SPERANZA,SPERANZA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305668,ARIANNA,SPESSOTTO,SPESSOTTO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306214,LUCA,SQUERI,SQUERI F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306139,NICOLA,STUMPO,STUMPO C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p34580,BRUNO,TABACCI,TABACCI C C C C C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306245,ALESSIO,TACCONI,TACCONI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300392,MARCELLO,TAGLIALATELA,TAGLIALATELA ,True,http://dati.camera.it/ocd/persona.rdf/p300392,TAGLIALATELA,MARCELLO
+http://dati.camera.it/ocd/persona.rdf/p303114,PAOLO,TANCREDI,TANCREDI ,True,http://dati.camera.it/ocd/persona.rdf/p303114,TANCREDI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p305995,LUIGI,TARANTO,TARANTO ,True,http://dati.camera.it/ocd/persona.rdf/p305995,TARANTO,LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305991,GIACOMINO,TARICCO,TARICCO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305844,ASSUNTA,TARTAGLIONE,TARTAGLIONE C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305551,VERONICA,TENTORI,TENTORI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305732,ALESSANDRA,TERROSI,TERROSI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305792,PATRIZIA,TERZONI,TERZONI F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305808,MARIETTA,TIDEI,TIDEI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305984,IRENE,TINAGLI,TINAGLI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305910,ANGELO,TOFALO,TOFALO F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305600,DANILO,TONINELLI,TONINELLI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302274,ACHILLE,TOTARO,TOTARO F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306230,DAVIDE,TRIPIEDI,TRIPIEDI F F F F F A F F A F A F F 1 1 1 1 1 1 2 2 2 2 2 2 2 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302772,MARIO,TULLO,TULLO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305614,TANCREDI,TURCO,TURCO F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306058,GIANLUCA,VACCA,VACCA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302811,GUGLIELMO,VACCARO,VACCARO ,True,http://dati.camera.it/ocd/persona.rdf/p302811,VACCARO,GUGLIELMO
+http://dati.camera.it/ocd/persona.rdf/p305849,VALERIA,VALENTE,VALENTE SIMONE VALENTE VALERIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301559,VALENTINO,VALENTINI,VALENTINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305943,SIMONE,VALIANTE,VALIANTE C C C F C C F F F C C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306034,ANDREA,VALLASCAS,VALLASCAS F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305735,FRANCO,VAZIO,VAZIO ,True,http://dati.camera.it/ocd/persona.rdf/p305735,VAZIO,FRANCO
+http://dati.camera.it/ocd/persona.rdf/p306135,ANDREA,VECCHIO,VECCHIO C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302977,PAOLO,VELLA,VELLA F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301495,SILVIA,VELO,VELO C C C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305753,LAURA,VENITTELLI,VENITTELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305753,VENITTELLI,LAURA
+http://dati.camera.it/ocd/persona.rdf/p305904,CECILIA,VENTRICELLI,VENTRICELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305904,VENTRICELLI,CECILIA
+http://dati.camera.it/ocd/persona.rdf/p302774,WALTER,VERINI,VERINI C C C F C F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305755,MARIA VALENTINA,VEZZALI,VEZZALI ,True,http://dati.camera.it/ocd/persona.rdf/p305755,VEZZALI,MARIA VALENTINA
+http://dati.camera.it/ocd/persona.rdf/p302758,RAFFAELLO,VIGNALI,VIGNALI ,True,http://dati.camera.it/ocd/persona.rdf/p302758,VIGNALI,RAFFAELLO
+http://dati.camera.it/ocd/persona.rdf/p305798,STEFANO,VIGNAROLI,VIGNAROLI F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306091,ALESSIO MATTIA,VILLAROSA,VILLAROSA F F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302278,ROSA MARIA,VILLECCO,VILLECCO CALIPARI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305505,PAOLO,VITELLI,VITELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305505,VITELLI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p34730,ELIO,VITO,VITO F F F F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305794,ADRIANO,ZACCAGNINI,ZACCAGNINI ,True,http://dati.camera.it/ocd/persona.rdf/p305794,ZACCAGNINI,ADRIANO
+http://dati.camera.it/ocd/persona.rdf/p302850,SANDRA,ZAMPA,ZAMPA C C C F C C F F F C C C F ZAN F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305666,ENRICO,ZANETTI,ZANETTI C C C F C C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305677,GIORGIO,ZANIN,ZANIN C C C F C C F F F C C C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306104,GIUSEPPE,ZAPPULLA,ZAPPULLA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306521,FILIBERTO,ZARATTI,ZARATTI F F F F F F F A F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305640,DIEGO,ZARDINI,ZARDINI C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305634,DAVIDE,ZOGGIA,ZOGGIA C C C F C C F F F C C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305598,ALBERTO,ZOLEZZI,ZOLEZZI F F F F F F F A F A F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302940,IGNAZIO,ABRIGNANI,ABRIGNANI F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p34960,FERDINANDO,ADORNATO,ADORNATO F C F C C F C C F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305782,DONATELLA,AGOSTINELLI,AGOSTINELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305782,AGOSTINELLI,DONATELLA
+http://dati.camera.it/ocd/persona.rdf/p302873,LUCIANO,AGOSTINI,AGOSTINI LUCIANO AGOSTINI ROBERTA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306300,FERDINANDO,AIELLO,AIELLO F F F C F F A F F A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305575,GIORGIO,AIRAUDO,AIRAUDO ,True,http://dati.camera.it/ocd/persona.rdf/p305575,AIRAUDO,GIORGIO
+http://dati.camera.it/ocd/persona.rdf/p306112,LUISELLA,ALBANELLA,ALBANELLA C C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305518,FERDINANDO,ALBERTI,ALBERTI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300431,ANGELINO,ALFANO,ALFANO ANGELINO M M M M M M M M M M M M M ALFANO GIOACCHINO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305582,DANIEL,ALFREIDER,ALFREIDER ,True,http://dati.camera.it/ocd/persona.rdf/p305582,ALFREIDER,DANIEL
+http://dati.camera.it/ocd/persona.rdf/p302145,STEFANO,ALLASIA,ALLASIA C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306075,MARIA,AMATO,AMATO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305931,VINCENZO,AMENDOLA,AMENDOLA F F F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p35030,MARIA TERESA,AMICI,AMICI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306308,SOFIA,AMODDIO,AMODDIO F C C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302942,ANTONIO,ANGELUCCI,ANGELUCCI ,True,http://dati.camera.it/ocd/persona.rdf/p302942,ANGELUCCI,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p303024,MARIA,ANTEZZA,ANTEZZA F C F C C F C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305946,MICHELE,ANZALDI,ANZALDI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306264,BRUNO,ARCHI,ARCHI F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302791,ILEANA,ARGENTIN,ARGENTIN F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305888,TIZIANO,ARLOTTI,ARLOTTI F C F C C F C C C F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306092,MASSIMO,ARTINI,ARTINI ,True,http://dati.camera.it/ocd/persona.rdf/p306092,ARTINI,MASSIMO
+http://dati.camera.it/ocd/persona.rdf/p305704,ANNA,ASCANI,ASCANI ,True,http://dati.camera.it/ocd/persona.rdf/p305704,ASCANI,ANNA
+http://dati.camera.it/ocd/persona.rdf/p305906,ANGELO GIOACHINO GAETANO,ATTAGUILE,ATTAGUILE C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306094,MARCO,BALDASSARRE,BALDASSARRE F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302089,SIMONE,BALDELLI,BALDELLI M M A F M M M F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305008,RENATO,BALDUZZI,BALDUZZI F C F C C F C C F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306115,SEBASTIANO,BARBANTI,BARBANTI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302857,PIER PAOLO,BARETTA,BARETTA ,True,http://dati.camera.it/ocd/persona.rdf/p302857,BARETTA,PIER PAOLO
+http://dati.camera.it/ocd/persona.rdf/p306001,CRISTINA,BARGERO,BARGERO F C F C C F F C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305948,DAVIDE,BARUFFI,BARUFFI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305522,TATIANA,BASILIO,BASILIO ,True,http://dati.camera.it/ocd/persona.rdf/p305522,BASILIO,TATIANA
+http://dati.camera.it/ocd/persona.rdf/p305721,LORENZO,BASSO,BASSO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306142,DEMETRIO,BATTAGLIA,BATTAGLIA ,True,http://dati.camera.it/ocd/persona.rdf/p306142,BATTAGLIA,DEMETRIO
+http://dati.camera.it/ocd/persona.rdf/p305715,SERGIO,BATTELLI,BATTELLI F F F F F F A F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305547,ALFREDO,BAZOLI,BAZOLI 2 2 2 3 3 3 3 3 3 3 3 3 3 ,True,http://dati.camera.it/ocd/persona.rdf/p305547,BAZOLI,ALFREDO
+http://dati.camera.it/ocd/persona.rdf/p305538,ELEONORA,BECHIS,BECHIS ,True,http://dati.camera.it/ocd/persona.rdf/p305538,BECHIS,ELEONORA
+http://dati.camera.it/ocd/persona.rdf/p301564,TERESA,BELLANOVA,BELLANOVA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302854,GIANLUCA,BENAMATI,BENAMATI F C C C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305604,SILVIA,BENEDETTI,BENEDETTI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306170,PAOLO,BENI,BENI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302867,DEBORAH,BERGAMINI,BERGAMINI F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305555,MARINA,BERLINGHIERI,BERLINGHIERI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301550,MAURIZIO,BERNARDO,BERNARDO ,True,http://dati.camera.it/ocd/persona.rdf/p301550,BERNARDO,MAURIZIO
+http://dati.camera.it/ocd/persona.rdf/p305743,MASSIMILIANO,BERNINI,BERNINI MASSIMILIANO F F F F F F A F F F F F A BERNINI PAOLO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302917,GIUSEPPE,BERRETTA,BERRETTA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300026,PIER LUIGI,BERSANI,BERSANI ,True,http://dati.camera.it/ocd/persona.rdf/p300026,BERSANI,PIER LUIGI
+http://dati.camera.it/ocd/persona.rdf/p300274,DORINA,BIANCHI,BIANCHI DORINA BIANCHI MARIASTELLA F C F C C F C C F F C F C BIANCHI NICOLA F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302124,MICHAELA,BIANCOFIORE,BIANCOFIORE ,True,http://dati.camera.it/ocd/persona.rdf/p302124,BIANCOFIORE,MICHAELA
+http://dati.camera.it/ocd/persona.rdf/p302870,MAURIZIO,BIANCONI,BIANCONI ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302769,SANDRO MARIO,BIASOTTI,BIASOTTI F F F F F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306150,MATTEO,BIFFONI,BIFFONI F F F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p35410,ROSARIA,BINDI,BINDI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302190,PAOLA,BINETTI,BINETTI F C F C C F C C F F C A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306146,CATERINA,BINI,BINI F C F C C F C C F F C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303028,FRANCA MARIA GRAZIA,BIONDELLI,BIONDELLI F C F C C F C C F F C F C BLAŽINA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302200,LUIGI,BOBBA,BOBBA C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305770,SERGIO,BOCCADUTRI,BOCCADUTRI F F F C F F A F F A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302892,FRANCESCO,BOCCIA,BOCCIA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302779,ANTONIO MICHELE,BOCCUZZI,BOCCUZZI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305917,PAOLO,BOLOGNESI,BOLOGNESI F C F C C F C C F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305508,ALBERTO,BOMBASSEI,BOMBASSEI ,True,http://dati.camera.it/ocd/persona.rdf/p305508,BOMBASSEI,ALBERTO
+http://dati.camera.it/ocd/persona.rdf/p305819,LORENZA,BONACCORSI,BONACCORSI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305549,SIMONA,BONAFE',BONAFE’ F C F C C F C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306087,ALFONSO,BONAFEDE,BONAFEDE ,True,http://dati.camera.it/ocd/persona.rdf/p306087,BONAFEDE,ALFONSO
+http://dati.camera.it/ocd/persona.rdf/p302817,FULVIO,BONAVITACOLA,BONAVITACOLA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306003,FRANCESCO,BONIFAZI,BONIFAZI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305563,FRANCESCA,BONOMO,BONOMO C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306268,FRANCO,BORDO,BORDO FRANCO BORDO MICHELE F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306249,MARIO ALEJANDRO,BORGHESE,BORGHESE F F F C C C C F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305501,STEFANO,BORGHESI,BORGHESI ,True,http://dati.camera.it/ocd/persona.rdf/p305501,BORGHESI,STEFANO
+http://dati.camera.it/ocd/persona.rdf/p305999,ENRICO,BORGHI,BORGHI ,True,http://dati.camera.it/ocd/persona.rdf/p305999,BORGHI,ENRICO
+http://dati.camera.it/ocd/persona.rdf/p306160,MARIA ELENA,BOSCHI,BOSCHI ,True,http://dati.camera.it/ocd/persona.rdf/p306160,BOSCHI,MARIA ELENA
+http://dati.camera.it/ocd/persona.rdf/p306306,ANTONINO,BOSCO,BOSCO F C F C C C C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302812,LUISA,BOSSA,BOSSA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p32460,UMBERTO,BOSSI,BOSSI ,True,http://dati.camera.it/ocd/persona.rdf/p32460,BOSSI,UMBERTO
+http://dati.camera.it/ocd/persona.rdf/p302754,CHIARA,BRAGA,BRAGA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302822,MATTEO,BRAGANTINI,BRAGANTINI MATTEO M M M M M M M M M M M M M BRAGANTINI PAOLA F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302838,MICHELA VITTORIA,BRAMBILLA,BRAMBILLA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305680,GIORGIO,BRANDOLIN,BRANDOLIN F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302852,ALESSANDRO,BRATTI,BRATTI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305852,GIUSEPPE,BRESCIA,BRESCIA F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50437,GIANCLAUDIO,BRESSA,BRESSA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305609,MARCO,BRUGNEROTTO,BRUGNEROTTO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302875,RENATO,BRUNETTA,BRUNETTA F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302282,FRANCESCO,BRUNO,BRUNO F C F C C F C C F F F F C BRUNO BOSSIO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306247,RENATA,BUENO,BUENO ,True,http://dati.camera.it/ocd/persona.rdf/p306247,BUENO,RENATA
+http://dati.camera.it/ocd/persona.rdf/p302834,GIANLUCA,BUONANNO,BUONANNO C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300410,GIOVANNI MARIO SALVINO,BURTONE,BURTONE F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305630,FILIPPO,BUSIN,BUSIN C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305602,FRANCESCA,BUSINAROLO,BUSINAROLO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306026,MIRKO,BUSTO,BUSTO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p35640,ROCCO,BUTTIGLIONE,BUTTIGLIONE F C F C C F C C A F C A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303200,ANNAGRAZIA,CALABRIA,CALABRIA ,True,http://dati.camera.it/ocd/persona.rdf/p303200,CALABRIA,ANNAGRAZIA
+http://dati.camera.it/ocd/persona.rdf/p303032,RAFFAELE,CALABRO',CALABRO’ F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305810,MICAELA,CAMPANA,CAMPANA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306050,AZZURRA PIA MARIA,CANCELLERI,CANCELLERI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306046,EMANUELE,CANI,CANI ,True,http://dati.camera.it/ocd/persona.rdf/p306046,CANI,EMANUELE
+http://dati.camera.it/ocd/persona.rdf/p305632,ROBERTO,CAON,CAON C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50138,DAVIDE CARLO,CAPARINI,CAPARINI C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306066,ROBERTO,CAPELLI,CAPELLI ,True,http://dati.camera.it/ocd/persona.rdf/p306066,CAPELLI,ROBERTO
+http://dati.camera.it/ocd/persona.rdf/p302059,DANIELE,CAPEZZONE,CAPEZZONE M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301478,ANGELO,CAPODICASA,CAPODICASA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305929,SALVATORE,CAPONE,CAPONE F C F C C F C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305954,SABRINA,CAPOZZOLO,CAPOZZOLO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305618,ILARIA,CAPUA,CAPUA F C F C A F C C F F C F C 2 2 2 3 3 3 3 3 3 3 3 3 3 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306208,ERNESTO,CARBONE,CARBONE ,True,http://dati.camera.it/ocd/persona.rdf/p306208,CARBONE,ERNESTO
+http://dati.camera.it/ocd/persona.rdf/p302881,DANIELA,CARDINALE,CARDINALE F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302792,RENZO,CARELLA,CARELLA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301531,MARIA ROSARIA,CARFAGNA,CARFAGNA F F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305868,FRANCESCO,CARIELLO,CARIELLO ,True,http://dati.camera.it/ocd/persona.rdf/p305868,CARIELLO,FRANCESCO
+http://dati.camera.it/ocd/persona.rdf/p306222,PAOLA,CARINELLI,CARINELLI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305539,ELENA,CARNEVALI,CARNEVALI F C F C F C C F F C F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305729,MARA,CAROCCI,CAROCCI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302760,MARCO,CARRA,CARRA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305776,PIERGIORGIO,CARRESCIA,CARRESCIA F C F C C F C C F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306110,MARIA CHIARA,CARROZZA,CARROZZA M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306243,MARIO,CARUSO,CARUSO ,True,http://dati.camera.it/ocd/persona.rdf/p306243,CARUSO,MARIO
+http://dati.camera.it/ocd/persona.rdf/p306202,EZIO PRIMO,CASATI,CASATI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305654,FLORIANA,CASELLATO,CASELLATO ,True,http://dati.camera.it/ocd/persona.rdf/p305654,CASELLATO,FLORIANA
+http://dati.camera.it/ocd/persona.rdf/p300398,LUIGI,CASERO,CASERO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305896,FRANCESCO,CASSANO,CASSANO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305525,LAURA,CASTELLI,CASTELLI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301573,GIUSEPPINA,CASTIELLO,CASTIELLO F F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306158,GIUSEPPE,CASTIGLIONE,CASTIGLIONE M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306068,ANTONIO,CASTRICONE,CASTRICONE F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305528,IVAN,CATALANO,CATALANO ,True,http://dati.camera.it/ocd/persona.rdf/p305528,CATALANO,IVAN
+http://dati.camera.it/ocd/persona.rdf/p305005,MARIO,CATANIA,CATANIA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300237,FRANCESCO,CATANOSO GENOESE,CATANOSO GENOESE ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302920,MARCO,CAUSI,CAUSI F C F C C F C C F F C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306276,ANDREA,CAUSIN,CAUSIN C F C F F F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305787,ANDREA,CECCONI,CECCONI F F F F F A F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302943,SUSANNA,CENNI,CENNI ,True,http://dati.camera.it/ocd/persona.rdf/p302943,CENNI,SUSANNA
+http://dati.camera.it/ocd/persona.rdf/p306149,BRUNO,CENSORE,CENSORE ,True,http://dati.camera.it/ocd/persona.rdf/p306149,CENSORE,BRUNO
+http://dati.camera.it/ocd/persona.rdf/p302950,ELENA,CENTEMERO,CENTEMERO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302887,ANGELO,CERA,CERA ,True,http://dati.camera.it/ocd/persona.rdf/p302887,CERA,ANGELO
+http://dati.camera.it/ocd/persona.rdf/p301439,LORENZO,CESA,CESA ,True,http://dati.camera.it/ocd/persona.rdf/p301439,CESA,LORENZO
+http://dati.camera.it/ocd/persona.rdf/p305925,ANTIMO,CESARO,CESARO ANTIMO F C F C C F C C F F C F C CESARO LUIGI F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306292,KHALID,CHAOUKI,CHAOUKI ,True,http://dati.camera.it/ocd/persona.rdf/p306292,CHAOUKI,KHALID
+http://dati.camera.it/ocd/persona.rdf/p305964,GIANFRANCO GIOVANNI,CHIARELLI,CHIARELLI ,True,http://dati.camera.it/ocd/persona.rdf/p305964,CHIARELLI,GIANFRANCO GIOVANNI
+http://dati.camera.it/ocd/persona.rdf/p305535,SILVIA,CHIMIENTI,CHIMIENTI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p15080,FABRIZIO,CICCHITTO,CICCHITTO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306196,ELEONORA,CIMBRO,CIMBRO F C F C C F C C F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305886,LUCIANO,CIMMINO,CIMMINO ,True,http://dati.camera.it/ocd/persona.rdf/p305886,CIMMINO,LUCIANO
+http://dati.camera.it/ocd/persona.rdf/p305694,TIZIANA,CIPRINI,CIPRINI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300319,EDMONDO,CIRIELLI,CIRIELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306187,GIUSEPPE,CIVATI,CIVATI ,True,http://dati.camera.it/ocd/persona.rdf/p306187,CIVATI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p305939,LAURA,COCCIA,COCCIA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302744,MATTEO,COLANINNO,COLANINNO C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306060,ANDREA,COLLETTI,COLLETTI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305898,VEGA,COLONNESE,COLONNESE ,True,http://dati.camera.it/ocd/persona.rdf/p305898,COLONNESE,VEGA
+http://dati.camera.it/ocd/persona.rdf/p305520,CLAUDIO,COMINARDI,COMINARDI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305534,MIRIAM,COMINELLI,COMINELLI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305682,PAOLO,COPPOLA,COPPOLA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306031,EMANUELA,CORDA,CORDA ,True,http://dati.camera.it/ocd/persona.rdf/p306031,CORDA,EMANUELA
+http://dati.camera.it/ocd/persona.rdf/p302757,MASSIMO ENRICO,CORSARO,CORSARO ,True,http://dati.camera.it/ocd/persona.rdf/p302757,CORSARO,MASSIMO ENRICO
+http://dati.camera.it/ocd/persona.rdf/p302796,MARIA,COSCIA,COSCIA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305588,CELESTINA,COSTANTINO,COSTANTINO ,True,http://dati.camera.it/ocd/persona.rdf/p305588,COSTANTINO,CELESTINA
+http://dati.camera.it/ocd/persona.rdf/p306198,PAOLO,COVA,COVA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306154,STEFANIA,COVELLO,COVELLO F ,True,http://dati.camera.it/ocd/persona.rdf/p306154,COVELLO,STEFANIA
+http://dati.camera.it/ocd/persona.rdf/p305678,EMANUELE,COZZOLINO,COZZOLINO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p36130,ROCCO,CRIMI,CRIMI’ F C F C C F C C F F C F C CRIMI ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306022,DAVIDE,CRIPPA,CRIPPA ,True,http://dati.camera.it/ocd/persona.rdf/p306022,CRIPPA,DAVIDE
+http://dati.camera.it/ocd/persona.rdf/p305644,DIEGO,CRIVELLARI,CRIVELLARI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305993,MAGDA,CULOTTA,CULOTTA ,True,http://dati.camera.it/ocd/persona.rdf/p305993,CULOTTA,MAGDA
+http://dati.camera.it/ocd/persona.rdf/p302422,GIOVANNI,CUPERLO,CUPERLO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306020,FABIANA,DADONE,DADONE F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305773,FEDERICA,DAGA,DAGA ,True,http://dati.camera.it/ocd/persona.rdf/p305773,DAGA,FEDERICA
+http://dati.camera.it/ocd/persona.rdf/p302873,LUCIANO,AGOSTINI,D’AGOSTINO F C F C C F C C F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306272,ALESSANDRO,ZAN,D’ALESSANDRO F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306164,LUIGI,DALLAI,DALLAI ,True,http://dati.camera.it/ocd/persona.rdf/p306164,DALLAI,LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305967,MATTEO,DALL'OSSO,DALL’OSSO ,True,http://dati.camera.it/ocd/persona.rdf/p305967,DALL'OSSO,MATTEO
+http://dati.camera.it/ocd/persona.rdf/p302832,GIAN PIETRO,DAL MORO,DAL MORO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305838,GIUSEPPE,D'AMBROSIO,D’AMBROSIO F F F F F F A F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306218,STEFANO,DAMBRUOSO,DAMBRUOSO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301532,CESARE,DAMIANO,DAMIANO F C F C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305646,VINCENZO,D'ARIENZO,D’ARIENZO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305908,ANTONIO,DECARO,DECARO ,True,http://dati.camera.it/ocd/persona.rdf/p305908,DECARO,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p305921,GIROLAMO,PISANO,DE GIROLAMO F C F C C F C C F F C C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306062,DANIELE,DEL GROSSO,DEL GROSSO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305597,LORENZO,DELLAI,DELLAI F C F C C C A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305848,DIEGO,DE LORENZIS,DE LORENZIS F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305656,ROGER,DE MENECH,DE MENECH F C F C C F C F F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302856,PAOLA,DE MICHELI,DE MICHELI F C F C C F C C F F C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306296,GIUSEPPE,DE MITA,DE MITA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305791,ALESSANDRO,DI BATTISTA,DI BATTISTA F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306045,CHIARA,DI BENEDETTO,DI BENEDETTO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306120,FEDERICA,DIENI,DIENI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300327,RAFFAELE,DI GIOIA,DI GIOIA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305854,MARCO,DI LELLO,DI LELLO F C F F C C C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305892,LUIGI,DI MAIO,DI MAIO LUIGI F M T T M F A F F F F F A DI MAIO MARCO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301576,TERESA MARIA,DI SALVO,DI SALVO F F F C F F A F F C A A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302883,ANTONIO,DISTASO,DISTASO ,True,http://dati.camera.it/ocd/persona.rdf/p302883,DISTASO,ANTONIO
+http://dati.camera.it/ocd/persona.rdf/p306042,GIULIA,DI VITA,DI VITA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306126,MARCO,DONATI,DONATI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302058,DONATELLA,DURANTI,DURANTI D’UVA F F F F F F A F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305837,ETTORE GUGLIELMO,EPIFANI,EPIFANI M M M M C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306168,DAVID,ERMINI,ERMINI F C F C C C C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305710,MARILENA,FABBRI,FABBRI ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302871,MONICA,FAENZI,FAENZI A C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305951,LUIGI,FAMIGLIETTI,FAMIGLIETTI ,True,http://dati.camera.it/ocd/persona.rdf/p305951,FAMIGLIETTI,LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305612,MATTIA,FANTINATI,FANTINATI ,True,http://dati.camera.it/ocd/persona.rdf/p305612,FANTINATI,MATTIA
+http://dati.camera.it/ocd/persona.rdf/p306172,EDOARDO,FANUCCI,FANUCCI F C C C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306005,DAVIDE,FARAONE,FARAONE F C C C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302138,DANIELE,FARINA,FARINA DANIELE F F F C F F A F F C A A FARINA GIANNI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305806,STEFANO,FASSINA,FASSINA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305739,FEDERICO,FAUTTILLI,FAUTTILLI F C F C C C F F C A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302153,GIOVANNI,FAVA,FAVA F F F C F F A F F C A A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301509,MARCO,FEDI,FEDI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302983,MASSIMILIANO,FEDRIGA,FEDRIGA C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302751,DONATELLA,FERRANTI,FERRANTI M F F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301489,FRANCESCO,FERRARA,FERRARA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305972,VITTORIO,FERRARESI,FERRARESI F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305616,ALAN,FERRARI,FERRARI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306286,ANDREA,FERRO,FERRO F C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301452,EMANUELE,FIANO,FIANO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305890,ROBERTO,FICO,FICO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301540,MASSIMO,FIORIO,FIORIO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50079,GIUSEPPE,FIORONI,FIORONI ,True,http://dati.camera.it/ocd/persona.rdf/p50079,FIORONI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p301551,RAFFAELE,FITTO,FITTO ,True,http://dati.camera.it/ocd/persona.rdf/p301551,FITTO,RAFFAELE
+http://dati.camera.it/ocd/persona.rdf/p305978,VINCENZO,FOLINO,FOLINO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301548,CINZIA MARIA,FONTANA,FONTANA CINZIA MARIA F C F C C F C C F F C F C FONTANA GREGORIO M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302860,PAOLO,FONTANELLI,FONTANELLI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300541,ANIELLO,FORMISANO,FORMISANO ,True,http://dati.camera.it/ocd/persona.rdf/p300541,FORMISANO,ANIELLO
+http://dati.camera.it/ocd/persona.rdf/p306162,FILIPPO,FOSSATI,FOSSATI F C F C C F C C F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305595,RICCARDO,FRACCARO,FRACCARO F F F F F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305559,GIAN MARIO,FRAGOMELI,FRAGOMELI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300246,DARIO,FRANCESCHINI,FRANCESCHINI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305880,NICOLA,FRATOIANNI,FRATOIANNI ,True,http://dati.camera.it/ocd/persona.rdf/p305880,FRATOIANNI,NICOLA
+http://dati.camera.it/ocd/persona.rdf/p305569,SILVIA,FREGOLENT,FREGOLENT F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305748,LUCA,FRUSONE,FRUSONE ,True,http://dati.camera.it/ocd/persona.rdf/p305748,FRUSONE,LUCA
+http://dati.camera.it/ocd/persona.rdf/p302955,BENEDETTO FRANCESCO,FUCCI,FUCCI ,True,http://dati.camera.it/ocd/persona.rdf/p302955,FUCCI,BENEDETTO FRANCESCO
+http://dati.camera.it/ocd/persona.rdf/p305856,ALESSANDRO,FURNARI,FURNARI F F F F F F A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305553,MARIA CHIARA,GADDA,GADDA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306096,CHIARA,GAGNARLI,GAGNARLI F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50258,GIUSEPPE,GALATI,GALATI ,True,http://dati.camera.it/ocd/persona.rdf/p50258,GALATI,GIUSEPPE
+http://dati.camera.it/ocd/persona.rdf/p305692,ADRIANA EDEN SUSANNA,GALGANO,GALGANO F C F F C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305706,CARLO,GALLI,GALLI CARLO F C F C C F C C F F C F C GALLI GIAMPAOLO F C F C C F C C F F C F C 2 2 2 3 3 3 3 3 3 3 3 3 3 ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305696,FILIPPO,GALLINELLA,GALLINELLA F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305900,LUIGI,GALLO,GALLO LUIGI F F F F F A F F F F F A GALLO RICCARDO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303065,GUIDO,GALPERTI,GALPERTI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305936,PAOLO,GANDOLFI,GANDOLFI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302899,LAURA,GARAVINI,GARAVINI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300639,DANIELA,GARNERO SANTANCHE',GARNERO SANTANCHE’ ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302956,VINCENZO,GAROFALO,GAROFALO ,True,http://dati.camera.it/ocd/persona.rdf/p302956,GAROFALO,VINCENZO
+http://dati.camera.it/ocd/persona.rdf/p301545,FRANCESCO SAVERIO,GAROFANI,GAROFANI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302790,ENRICO,GASBARRA,GASBARRA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306206,DANIELA MATILDE MARIA,GASPARINI,GASPARINI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305580,RENATE,GEBHARD,GEBHARD C C C C F F C F F C F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306175,FEDERICO,GELLI,GELLI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301449,MARIASTELLA,GELMINI,GELMINI F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302918,FRANCANTONIO,GENOVESE,GENOVESE F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300637,PAOLO,GENTILONI SILVERI,GENTILONI SILVERI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301485,MANUELA,GHIZZONI,GHIZZONI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300480,ROBERTO,GIACHETTI,GIACHETTI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305719,ANNA,GIACOBBE,GIACOBBE F C F C C F C C F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301056,ANTONELLO,GIACOMELLI,GIACOMELLI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301533,SESTINO,GIACOMONI,GIACOMONI F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302957,GABRIELLA,GIAMMANCO,GIAMMANCO ,True,http://dati.camera.it/ocd/persona.rdf/p302957,GIAMMANCO,GABRIELLA
+http://dati.camera.it/ocd/persona.rdf/p305686,GIAN LUIGI,GIGLI,GIGLI ,True,http://dati.camera.it/ocd/persona.rdf/p305686,GIGLI,GIAN LUIGI
+http://dati.camera.it/ocd/persona.rdf/p305638,FEDERICO,GINATO,GINATO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302897,DARIO,GINEFRA,GINEFRA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302921,TOMMASO,GINOBLE,GINOBLE ,True,http://dati.camera.it/ocd/persona.rdf/p302921,GINOBLE,TOMMASO
+http://dati.camera.it/ocd/persona.rdf/p306294,GIANCARLO,GIORDANO,GIORDANO GIANCARLO GIORDANO SILVIA F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p50160,ALBERTO,GIORGETTI,GIORGETTI ALBERTO M M M M M M M M M M M M M GIORGETTI GIANCARLO F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305567,ANDREA,GIORGIS,GIORGIS F C F C C F C C F F A F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305511,GREGORIO,GITTI,GITTI ,True,http://dati.camera.it/ocd/persona.rdf/p305511,GITTI,GREGORIO
+http://dati.camera.it/ocd/persona.rdf/p306200,FABRIZIA,GIULIANI,GIULIANI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305701,GIAMPIERO,GIULIETTI,GIULIETTI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302862,MARIALUISA,GNECCHI,GNECCHI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302128,SANDRO,GOZI,GOZI M M M M M M M M M M M M M ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305784,MARTA,GRANDE,GRANDE F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301562,GEROLAMO,GRASSI,GRASSI F C F C C F C C F F F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306106,MARIA GAETANA,GRECO,GRECO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305821,MONICA,GREGORI,GREGORI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306008,CHIARA,GRIBAUDO,GRIBAUDO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306071,GIULIA,GRILLO,GRILLO F F F F F F A F F F F F A ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p301455,PAOLO,GRIMOLDI,GRIMOLDI ,True,http://dati.camera.it/ocd/persona.rdf/p301455,GRIMOLDI,PAOLO
+http://dati.camera.it/ocd/persona.rdf/p305557,GIUSEPPE,GUERINI,GUERINI GIUSEPPE F C F C C F C C F F C F C GUERINI LORENZO ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p34810,MAURO,GUERRA,GUERRA F C C C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306582,GUIDO,GUIDESI,GUIDESI C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306117,MARIA TINDARA,GULLO,GULLO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306079,ITZHAK YORAM,GUTGELD,GUTGELD C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306302,MARIA,IACONO,IACONO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305746,CRISTIAN,IANNUZZI,IANNUZZI CRISTIAN F F F F F F A F F F F F A IANNUZZI TINO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305864,LEONARDO,IMPEGNO,IMPEGNO F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305702,ANTONELLA,INCERTI,INCERTI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305503,CRISTIAN,INVERNIZZI,INVERNIZZI C C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305952,VANNA,IORI,IORI F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306270,FLORIAN,KRONBICHLER,KRONBICHLER ,True,http://dati.camera.it/ocd/persona.rdf/p306270,KRONBICHLER,FLORIAN
+http://dati.camera.it/ocd/persona.rdf/p305827,KASHETU,KYENGE,KYENGE ,True,http://dati.camera.it/ocd/persona.rdf/p305827,KYENGE,KASHETU
+http://dati.camera.it/ocd/persona.rdf/p305872,VINCENZA,LABRIOLA,LABRIOLA ,True,http://dati.camera.it/ocd/persona.rdf/p305872,LABRIOLA,VINCENZA
+http://dati.camera.it/ocd/persona.rdf/p306266,LUIGI,LACQUANITI,LACQUANITI F F F C F F A F F C A A C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p302773,PIETRO,LAFFRANCO,LAFFRANCO F C A C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p306194,FRANCESCO,LAFORGIA,LAFORGIA F C F C C F C C F F C F C ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p300442,GIORGIO,LAINATI,LAINATI F C F C A F F A A F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305662,MARCO,MARCOLIN,LA MARCA ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p303072,COSIMO,LATRONICO,LATRONICO F C F C F F F F F F F F F ,False,,,
+http://dati.camera.it/ocd/persona.rdf/p305749,ENZO,LATTUCA,LATTUCA F C F C C F C C F F C F C ,False,,,

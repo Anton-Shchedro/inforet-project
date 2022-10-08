@@ -42,8 +42,10 @@ def segment(word):
     regex.sub('', word)
     while(len(word) > 0 and word[0] == ' '):
         word = word[1:]
+        
     #clear_output(wait=True)
     #print(word)
+    
     allSegmentations = [[first] + segment(rest) for (first,rest) in splitPairs(word)]
     return max(allSegmentations, key = wordSeqFitness)
 
